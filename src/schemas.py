@@ -11,6 +11,10 @@ class ClaimExtraction(BaseModel):
         default=None,
         description="One of: medical, auto, property, travel, life"
     )
+    claimant_name: Optional[str] = Field(
+        default=None,
+        description="Full name of the person filing the claim"
+    )
     diagnosis: Optional[str] = Field(
         default=None,
         description="Diagnosis or reason for claim"

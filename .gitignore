@@ -30,9 +30,6 @@ Thumbs.db
 # Data files (large, local-only)
 data/raw/
 data/processed/
-*.pdf
-*.png
-*.jpg
 
 # Model checkpoints
 *.pt

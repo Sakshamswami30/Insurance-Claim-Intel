@@ -17,6 +17,7 @@ def build_prompt(text: str) -> str:
 Extract the following fields from the document text below:
 - policy_number
 - claim_type (one of: medical, auto, property, travel, life)
+- claimant_name
 - diagnosis
 - claim_amount (number only, no currency symbol)
 - incident_date (YYYY-MM-DD format)

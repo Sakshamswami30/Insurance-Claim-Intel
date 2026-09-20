@@ -1,0 +1,302 @@
+[
+  {
+    "policy_number": "POL-94829",
+    "claim_type": "Property",
+    "claimant_name": "Arjun Reddy",
+    "diagnosis": "Road accident - minor injury",
+    "provider_name": "City General Hospital",
+    "incident_date": "2024-03-17",
+    "claim_amount": 158553.85,
+    "filename": "claim_001.pdf"
+  },
+  {
+    "policy_number": "POL-77671",
+    "claim_type": "Medical",
+    "claimant_name": "Neha Iyer",
+    "diagnosis": "Fracture - left femur",
+    "provider_name": "Max Super Speciality",
+    "incident_date": "2025-03-22",
+    "claim_amount": 50068.44,
+    "filename": "claim_002.pdf"
+  },
+  {
+    "policy_number": "POL-65580",
+    "claim_type": "Auto",
+    "claimant_name": "Sneha Verma",
+    "diagnosis": "Acute appendicitis",
+    "provider_name": "QuickCare Diagnostics",
+    "incident_date": "2025-04-01",
+    "claim_amount": 178166.09,
+    "filename": "claim_003.pdf"
+  },
+  {
+    "policy_number": "INS-86284",
+    "claim_type": "Property",
+    "claimant_name": "Anjali Sharma",
+    "diagnosis": "Fracture - left femur",
+    "provider_name": "City General Hospital",
+    "incident_date": "2026-09-14",
+    "claim_amount": 138644.1,
+    "filename": "claim_004.pdf"
+  },
+  {
+    "policy_number": "INS-95448",
+    "claim_type": "Auto",
+    "claimant_name": "Anjali Singh",
+    "diagnosis": "Type 2 Diabetes",
+    "provider_name": "Manipal Hospital",
+    "incident_date": "2024-06-14",
+    "claim_amount": 124721.22,
+    "filename": "claim_005.pdf"
+  },
+  {
+    "policy_number": "CLM-49309",
+    "claim_type": "Medical",
+    "claimant_name": "Arjun Iyer",
+    "diagnosis": "Fracture - left femur",
+    "provider_name": "AutoFix Garage",
+    "incident_date": "2024-06-18",
+    "claim_amount": 63228.9,
+    "filename": "claim_006.pdf"
+  },
+  {
+    "policy_number": "INS-51790",
+    "claim_type": "Property",
+    "claimant_name": "Kavya Reddy",
+    "diagnosis": "Water damage - kitchen",
+    "provider_name": "Manipal Hospital",
+    "incident_date": "2026-04-06",
+    "claim_amount": 4540.76,
+    "filename": "claim_007.pdf"
+  },
+  {
+    "policy_number": "POL-45654",
+    "claim_type": "Travel",
+    "claimant_name": "Neha Sharma",
+    "diagnosis": "Road accident - minor injury",
+    "provider_name": "Manipal Hospital",
+    "incident_date": "2026-04-10",
+    "claim_amount": 51559.36,
+    "filename": "claim_008.pdf"
+  },
+  {
+    "policy_number": "INS-78589",
+    "claim_type": "Auto",
+    "claimant_name": "Arjun Sharma",
+    "diagnosis": "Viral fever",
+    "provider_name": "Manipal Hospital",
+    "incident_date": "2025-08-08",
+    "claim_amount": 183192.34,
+    "filename": "claim_009.pdf"
+  },
+  {
+    "policy_number": "CLM-91649",
+    "claim_type": "Travel",
+    "claimant_name": "Rohan Nair",
+    "diagnosis": "Viral fever",
+    "provider_name": "Fortis Healthcare",
+    "incident_date": "2024-05-22",
+    "claim_amount": 114247.42,
+    "filename": "claim_010.pdf"
+  },
+  {
+    "policy_number": "INS-81899",
+    "claim_type": "Property",
+    "claimant_name": "Rohan Verma",
+    "diagnosis": "Type 2 Diabetes",
+    "provider_name": "Max Super Speciality",
+    "incident_date": "2024-12-22",
+    "claim_amount": 58367.86,
+    "filename": "claim_011.pdf"
+  },
+  {
+    "policy_number": "POL-82952",
+    "claim_type": "Property",
+    "claimant_name": "Anjali Nair",
+    "diagnosis": "Lost baggage",
+    "provider_name": "Apollo Clinic",
+    "incident_date": "2026-12-23",
+    "claim_amount": 151961.93,
+    "filename": "claim_012.pdf"
+  },
+  {
+    "policy_number": "POL-22447",
+    "claim_type": "Travel",
+    "claimant_name": "Kavya Singh",
+    "diagnosis": "Type 2 Diabetes",
+    "provider_name": "Manipal Hospital",
+    "incident_date": "2026-08-08",
+    "claim_amount": 238510.12,
+    "filename": "claim_013.pdf"
+  },
+  {
+    "policy_number": "CLM-92427",
+    "claim_type": "Medical",
+    "claimant_name": "Sneha Reddy",
+    "diagnosis": "Road accident - minor injury",
+    "provider_name": "AutoFix Garage",
+    "incident_date": "2026-06-26",
+    "claim_amount": 5781.03,
+    "filename": "claim_014.pdf"
+  },
+  {
+    "policy_number": "INS-10726",
+    "claim_type": "Auto",
+    "claimant_name": "Sneha Reddy",
+    "diagnosis": "Water damage - kitchen",
+    "provider_name": "AutoFix Garage",
+    "incident_date": "2025-02-07",
+    "claim_amount": 68861.02,
+    "filename": "claim_015.pdf"
+  },
+  {
+    "policy_number": "POL-36073",
+    "claim_type": "Auto",
+    "claimant_name": "Sneha Reddy",
+    "diagnosis": "Viral fever",
+    "provider_name": "City General Hospital",
+    "incident_date": "2024-03-12",
+    "claim_amount": 229085.97,
+    "filename": "claim_016.pdf"
+  },
+  {
+    "policy_number": "CLM-13113",
+    "claim_type": "Travel",
+    "claimant_name": "Rohan Gupta",
+    "diagnosis": "Type 2 Diabetes",
+    "provider_name": "Manipal Hospital",
+    "incident_date": "2024-04-26",
+    "claim_amount": 94790.32,
+    "filename": "claim_017.pdf"
+  },
+  {
+    "policy_number": "POL-49068",
+    "claim_type": "Medical",
+    "claimant_name": "Amit Gupta",
+    "diagnosis": "Road accident - minor injury",
+    "provider_name": "City General Hospital",
+    "incident_date": "2024-09-28",
+    "claim_amount": 177152.31,
+    "filename": "claim_018.pdf"
+  },
+  {
+    "policy_number": "POL-56112",
+    "claim_type": "Medical",
+    "claimant_name": "Priya Sharma",
+    "diagnosis": "Viral fever",
+    "provider_name": "Max Super Speciality",
+    "incident_date": "2024-06-21",
+    "claim_amount": 30913.0,
+    "filename": "claim_019.pdf"
+  },
+  {
+    "policy_number": "CLM-45185",
+    "claim_type": "Travel",
+    "claimant_name": "Kavya Verma",
+    "diagnosis": "Hypertension",
+    "provider_name": "City General Hospital",
+    "incident_date": "2024-02-20",
+    "claim_amount": 214320.89,
+    "filename": "claim_020.pdf"
+  },
+  {
+    "policy_number": "INS-40598",
+    "claim_type": "Auto",
+    "claimant_name": "Sneha Singh",
+    "diagnosis": "Acute appendicitis",
+    "provider_name": "Manipal Hospital",
+    "incident_date": "2025-10-23",
+    "claim_amount": 134206.62,
+    "filename": "claim_021.pdf"
+  },
+  {
+    "policy_number": "CLM-95735",
+    "claim_type": "Property",
+    "claimant_name": "Amit Sharma",
+    "diagnosis": "Viral fever",
+    "provider_name": "QuickCare Diagnostics",
+    "incident_date": "2025-02-01",
+    "claim_amount": 216592.56,
+    "filename": "claim_022.pdf"
+  },
+  {
+    "policy_number": "INS-45670",
+    "claim_type": "Auto",
+    "claimant_name": "Anjali Iyer",
+    "diagnosis": "Road accident - minor injury",
+    "provider_name": "AutoFix Garage",
+    "incident_date": "2026-07-26",
+    "claim_amount": 90665.98,
+    "filename": "claim_023.pdf"
+  },
+  {
+    "policy_number": "CLM-89133",
+    "claim_type": "Travel",
+    "claimant_name": "Anjali Khan",
+    "diagnosis": "Water damage - kitchen",
+    "provider_name": "Fortis Healthcare",
+    "incident_date": "2024-12-05",
+    "claim_amount": 10070.18,
+    "filename": "claim_024.pdf"
+  },
+  {
+    "policy_number": "POL-50334",
+    "claim_type": "Auto",
+    "claimant_name": "Neha Iyer",
+    "diagnosis": "Water damage - kitchen",
+    "provider_name": "QuickCare Diagnostics",
+    "incident_date": "2025-11-07",
+    "claim_amount": 75370.79,
+    "filename": "claim_025.pdf"
+  },
+  {
+    "policy_number": "CLM-74458",
+    "claim_type": "Auto",
+    "claimant_name": "Kavya Reddy",
+    "diagnosis": "Viral fever",
+    "provider_name": "Fortis Healthcare",
+    "incident_date": "2025-08-01",
+    "claim_amount": 85047.56,
+    "filename": "claim_026.pdf"
+  },
+  {
+    "policy_number": "POL-76881",
+    "claim_type": "Property",
+    "claimant_name": "Neha Singh",
+    "diagnosis": "Fracture - left femur",
+    "provider_name": "Max Super Speciality",
+    "incident_date": "2026-03-07",
+    "claim_amount": 37987.37,
+    "filename": "claim_027.pdf"
+  },
+  {
+    "policy_number": "POL-74840",
+    "claim_type": "Property",
+    "claimant_name": "Kavya Patel",
+    "diagnosis": "Viral fever",
+    "provider_name": "Fortis Healthcare",
+    "incident_date": "2024-04-10",
+    "claim_amount": 111522.36,
+    "filename": "claim_028.pdf"
+  },
+  {
+    "policy_number": "POL-89742",
+    "claim_type": "Auto",
+    "claimant_name": "Rahul Mehta",
+    "diagnosis": "Water damage - kitchen",
+    "provider_name": "Max Super Speciality",
+    "incident_date": "2025-12-12",
+    "claim_amount": 1650.21,
+    "filename": "claim_029.pdf"
+  },
+  {
+    "policy_number": "POL-54469",
+    "claim_type": "Property",
+    "claimant_name": "Priya Reddy",
+    "diagnosis": "Fracture - left femur",
+    "provider_name": "Fortis Healthcare",
+    "incident_date": "2024-07-27",
+    "claim_amount": 158089.16,
+    "filename": "claim_030.pdf"
+  }
+]
