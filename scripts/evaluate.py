@@ -2,6 +2,8 @@ import json
 import time
 from pathlib import Path
 
+from groq import RateLimitError
+
 from src.ocr import extract_text_from_pdf
 from src.extract import extract_claim
 
@@ -27,39 +29,93 @@ def normalize(value):
     return value
 
 
+def extract_with_retry(text: str, max_attempts: int = 5):
+    """Retry extraction on rate limit, respecting Groq's suggested wait."""
+    for attempt in range(max_attempts):
+        try:
+            return extract_claim(text)
+        except RateLimitError as e:
+            wait = 30
+            msg = str(e)
+            if "try again in" in msg:
+                try:
+                    tail = msg.split("try again in")[1].split("s")[0].strip()
+                    wait = float(tail) + 2
+                except Exception:
+                    pass
+            print(f"    rate limited, waiting {wait:.0f}s (attempt {attempt + 1}/{max_attempts})")
+            time.sleep(wait)
+    raise RuntimeError("Exceeded max retries on rate limit")
+
+
 def evaluate_batch(truth_path: str, claims_dir: str, label: str):
     with open(truth_path, encoding="utf-8") as f:
         ground_truth = json.load(f)
+
+    checkpoint_path = Path(f"data/samples/eval_checkpoint_{label.lower()}.json")
+    checkpoint_path.parent.mkdir(parents=True, exist_ok=True)
+
+    # Load existing checkpoint if present
+    completed = {}
+    if checkpoint_path.exists():
+        with open(checkpoint_path, encoding="utf-8") as f:
+            completed = json.load(f)
+        print(f"[{label}] Resuming from checkpoint: {len(completed)} documents already done")
 
     results = {field: {"correct": 0, "total": 0} for field in COMPARE_FIELDS}
     failures = []
 
     for record in ground_truth:
         filename = record["filename"]
-        pdf_path = Path(claims_dir) / filename
+
+        if filename in completed:
+            # Replay prior result from checkpoint
+            prior = completed[filename]
+            for field in COMPARE_FIELDS:
+                results[field]["total"] += 1
+                if prior["extracted"].get(field) == prior["expected"].get(field):
+                    results[field]["correct"] += 1
+                else:
+                    failures.append({
+                        "file": filename,
+                        "field": field,
+                        "expected": prior["expected"].get(field),
+                        "got": prior["extracted"].get(field),
+                    })
+            continue
+
         print(f"[{label}] Processing {filename}...")
+        time.sleep(2)
 
-        time.sleep(2)  # avoid hitting Groq free-tier TPM limit
-
+        pdf_path = Path(claims_dir) / filename
         text = extract_text_from_pdf(str(pdf_path))
-        extracted = extract_claim(text)
+        extracted = extract_with_retry(text)
         extracted_dict = extracted.model_dump()
 
-        for field in COMPARE_FIELDS:
-            expected = normalize(record.get(field))
-            got = normalize(extracted_dict.get(field))
-            results[field]["total"] += 1
+        expected_norm = {field: normalize(record.get(field)) for field in COMPARE_FIELDS}
+        got_norm = {field: normalize(extracted_dict.get(field)) for field in COMPARE_FIELDS}
 
-            if expected == got:
+        for field in COMPARE_FIELDS:
+            results[field]["total"] += 1
+            if expected_norm[field] == got_norm[field]:
                 results[field]["correct"] += 1
             else:
                 failures.append({
                     "file": filename,
                     "field": field,
-                    "expected": expected,
-                    "got": got,
+                    "expected": expected_norm[field],
+                    "got": got_norm[field],
                 })
 
+        # Save checkpoint after each document
+        completed[filename] = {
+            "expected": expected_norm,
+            "extracted": got_norm,
+        }
+        with open(checkpoint_path, "w", encoding="utf-8") as f:
+            json.dump(completed, f, indent=2)
+
+    # Print summary
     print(f"\n{'=' * 50}")
     print(f"RESULTS — {label}")
     print(f"{'=' * 50}")
