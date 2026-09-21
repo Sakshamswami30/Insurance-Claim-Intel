@@ -53,8 +53,8 @@ def draw_messy_claim_pdf(output_path: str, data: dict, missing_field: str | None
     c.drawString(80, y, "INSURANCE CLAIM FORM")
     y -= 40
 
-    # Build the field list, skip the missing one
-    field_keys = [k for k in data.keys() if k != "filename"]
+    # Only include fields that have a label defined — skips metadata like filed_date
+    field_keys = [k for k in data.keys() if k in LABEL_VARIANTS]
     if missing_field and missing_field in field_keys:
         field_keys.remove(missing_field)
 
@@ -90,7 +90,7 @@ def generate_messy_batch(count: int, output_dir: str, truth_path: str, missing_r
 
         missing_field = None
         if random.random() < missing_rate:
-            missing_field = random.choice(list(data.keys()))
+            missing_field = random.choice([k for k in data.keys() if k in LABEL_VARIANTS])
 
         filename = f"claim_messy_{i:03d}.pdf"
         pdf_path = out / filename
