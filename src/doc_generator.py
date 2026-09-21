@@ -1,11 +1,11 @@
 import json
 import random
+from datetime import datetime, timedelta
 from pathlib import Path
 from reportlab.lib.pagesizes import A4
 from reportlab.pdfgen import canvas
 
 
-# Value pools — we draw randomly from these
 POLICY_PREFIXES = ["POL", "CLM", "INS"]
 FIRST_NAMES = ["Rahul", "Priya", "Amit", "Sneha", "Vikram", "Neha", "Arjun", "Kavya", "Rohan", "Anjali"]
 LAST_NAMES = ["Sharma", "Patel", "Singh", "Verma", "Iyer", "Reddy", "Khan", "Gupta", "Nair", "Mehta"]
@@ -41,11 +41,17 @@ def random_name() -> str:
     return f"{random.choice(FIRST_NAMES)} {random.choice(LAST_NAMES)}"
 
 
-def random_date() -> str:
+def random_incident_date() -> datetime:
     year = random.choice([2024, 2025, 2026])
     month = random.randint(1, 12)
     day = random.randint(1, 28)
-    return f"{year:04d}-{month:02d}-{day:02d}"
+    return datetime(year, month, day)
+
+
+def random_filed_date(incident_date: datetime) -> datetime:
+    """Filed between 1 and 60 days after the incident."""
+    days_gap = random.randint(1, 60)
+    return incident_date + timedelta(days=days_gap)
 
 
 def random_amount() -> float:
@@ -54,13 +60,17 @@ def random_amount() -> float:
 
 def generate_claim_data() -> dict:
     """Return a dict with all the values for one claim."""
+    incident_dt = random_incident_date()
+    filed_dt = random_filed_date(incident_dt)
+
     return {
         "policy_number": random_policy_number(),
         "claim_type": random.choice(CLAIM_TYPES),
         "claimant_name": random_name(),
         "diagnosis": random.choice(DIAGNOSES),
         "provider_name": random.choice(PROVIDERS),
-        "incident_date": random_date(),
+        "incident_date": incident_dt.strftime("%Y-%m-%d"),
+        "filed_date": filed_dt.strftime("%Y-%m-%d"),
         "claim_amount": random_amount(),
     }
 

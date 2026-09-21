@@ -7,7 +7,8 @@
     "provider_name": "City General Hospital",
     "incident_date": "2024-03-17",
     "claim_amount": 158553.85,
-    "filename": "claim_001.pdf"
+    "filename": "claim_001.pdf",
+    "filed_date": "2024-05-03"
   },
   {
     "policy_number": "POL-77671",
@@ -17,7 +18,8 @@
     "provider_name": "Max Super Speciality",
     "incident_date": "2025-03-22",
     "claim_amount": 50068.44,
-    "filename": "claim_002.pdf"
+    "filename": "claim_002.pdf",
+    "filed_date": "2025-04-08"
   },
   {
     "policy_number": "POL-65580",
@@ -27,7 +29,8 @@
     "provider_name": "QuickCare Diagnostics",
     "incident_date": "2025-04-01",
     "claim_amount": 178166.09,
-    "filename": "claim_003.pdf"
+    "filename": "claim_003.pdf",
+    "filed_date": "2025-05-07"
   },
   {
     "policy_number": "INS-86284",
@@ -37,7 +40,8 @@
     "provider_name": "City General Hospital",
     "incident_date": "2026-09-14",
     "claim_amount": 138644.1,
-    "filename": "claim_004.pdf"
+    "filename": "claim_004.pdf",
+    "filed_date": "2026-09-30"
   },
   {
     "policy_number": "INS-95448",
@@ -47,7 +51,8 @@
     "provider_name": "Manipal Hospital",
     "incident_date": "2024-06-14",
     "claim_amount": 124721.22,
-    "filename": "claim_005.pdf"
+    "filename": "claim_005.pdf",
+    "filed_date": "2024-06-25"
   },
   {
     "policy_number": "CLM-49309",
@@ -57,7 +62,8 @@
     "provider_name": "AutoFix Garage",
     "incident_date": "2024-06-18",
     "claim_amount": 63228.9,
-    "filename": "claim_006.pdf"
+    "filename": "claim_006.pdf",
+    "filed_date": "2024-07-26"
   },
   {
     "policy_number": "INS-51790",
@@ -67,7 +73,8 @@
     "provider_name": "Manipal Hospital",
     "incident_date": "2026-04-06",
     "claim_amount": 4540.76,
-    "filename": "claim_007.pdf"
+    "filename": "claim_007.pdf",
+    "filed_date": "2026-05-07"
   },
   {
     "policy_number": "POL-45654",
@@ -77,7 +84,8 @@
     "provider_name": "Manipal Hospital",
     "incident_date": "2026-04-10",
     "claim_amount": 51559.36,
-    "filename": "claim_008.pdf"
+    "filename": "claim_008.pdf",
+    "filed_date": "2026-05-12"
   },
   {
     "policy_number": "INS-78589",
@@ -87,7 +95,8 @@
     "provider_name": "Manipal Hospital",
     "incident_date": "2025-08-08",
     "claim_amount": 183192.34,
-    "filename": "claim_009.pdf"
+    "filename": "claim_009.pdf",
+    "filed_date": "2025-09-25"
   },
   {
     "policy_number": "CLM-91649",
@@ -97,7 +106,8 @@
     "provider_name": "Fortis Healthcare",
     "incident_date": "2024-05-22",
     "claim_amount": 114247.42,
-    "filename": "claim_010.pdf"
+    "filename": "claim_010.pdf",
+    "filed_date": "2024-06-01"
   },
   {
     "policy_number": "INS-81899",
@@ -107,7 +117,8 @@
     "provider_name": "Max Super Speciality",
     "incident_date": "2024-12-22",
     "claim_amount": 58367.86,
-    "filename": "claim_011.pdf"
+    "filename": "claim_011.pdf",
+    "filed_date": "2025-01-19"
   },
   {
     "policy_number": "POL-82952",
@@ -117,7 +128,8 @@
     "provider_name": "Apollo Clinic",
     "incident_date": "2026-12-23",
     "claim_amount": 151961.93,
-    "filename": "claim_012.pdf"
+    "filename": "claim_012.pdf",
+    "filed_date": "2027-02-15"
   },
   {
     "policy_number": "POL-22447",
@@ -127,7 +139,8 @@
     "provider_name": "Manipal Hospital",
     "incident_date": "2026-08-08",
     "claim_amount": 238510.12,
-    "filename": "claim_013.pdf"
+    "filename": "claim_013.pdf",
+    "filed_date": "2026-09-16"
   },
   {
     "policy_number": "CLM-92427",
@@ -137,7 +150,8 @@
     "provider_name": "AutoFix Garage",
     "incident_date": "2026-06-26",
     "claim_amount": 5781.03,
-    "filename": "claim_014.pdf"
+    "filename": "claim_014.pdf",
+    "filed_date": "2026-07-28"
   },
   {
     "policy_number": "INS-10726",
@@ -147,7 +161,8 @@
     "provider_name": "AutoFix Garage",
     "incident_date": "2025-02-07",
     "claim_amount": 68861.02,
-    "filename": "claim_015.pdf"
+    "filename": "claim_015.pdf",
+    "filed_date": "2025-04-06"
   },
   {
     "policy_number": "POL-36073",
@@ -157,7 +172,8 @@
     "provider_name": "City General Hospital",
     "incident_date": "2024-03-12",
     "claim_amount": 229085.97,
-    "filename": "claim_016.pdf"
+    "filename": "claim_016.pdf",
+    "filed_date": "2024-03-27"
   },
   {
     "policy_number": "CLM-13113",
@@ -167,7 +183,8 @@
     "provider_name": "Manipal Hospital",
     "incident_date": "2024-04-26",
     "claim_amount": 94790.32,
-    "filename": "claim_017.pdf"
+    "filename": "claim_017.pdf",
+    "filed_date": "2024-06-25"
   },
   {
     "policy_number": "POL-49068",
@@ -177,7 +194,8 @@
     "provider_name": "City General Hospital",
     "incident_date": "2024-09-28",
     "claim_amount": 177152.31,
-    "filename": "claim_018.pdf"
+    "filename": "claim_018.pdf",
+    "filed_date": "2024-11-06"
   },
   {
     "policy_number": "POL-56112",
@@ -187,7 +205,8 @@
     "provider_name": "Max Super Speciality",
     "incident_date": "2024-06-21",
     "claim_amount": 30913.0,
-    "filename": "claim_019.pdf"
+    "filename": "claim_019.pdf",
+    "filed_date": "2024-07-27"
   },
   {
     "policy_number": "CLM-45185",
@@ -197,7 +216,8 @@
     "provider_name": "City General Hospital",
     "incident_date": "2024-02-20",
     "claim_amount": 214320.89,
-    "filename": "claim_020.pdf"
+    "filename": "claim_020.pdf",
+    "filed_date": "2024-03-06"
   },
   {
     "policy_number": "INS-40598",
@@ -207,7 +227,8 @@
     "provider_name": "Manipal Hospital",
     "incident_date": "2025-10-23",
     "claim_amount": 134206.62,
-    "filename": "claim_021.pdf"
+    "filename": "claim_021.pdf",
+    "filed_date": "2025-11-01"
   },
   {
     "policy_number": "CLM-95735",
@@ -217,7 +238,8 @@
     "provider_name": "QuickCare Diagnostics",
     "incident_date": "2025-02-01",
     "claim_amount": 216592.56,
-    "filename": "claim_022.pdf"
+    "filename": "claim_022.pdf",
+    "filed_date": "2025-03-25"
   },
   {
     "policy_number": "INS-45670",
@@ -227,7 +249,8 @@
     "provider_name": "AutoFix Garage",
     "incident_date": "2026-07-26",
     "claim_amount": 90665.98,
-    "filename": "claim_023.pdf"
+    "filename": "claim_023.pdf",
+    "filed_date": "2026-08-02"
   },
   {
     "policy_number": "CLM-89133",
@@ -237,7 +260,8 @@
     "provider_name": "Fortis Healthcare",
     "incident_date": "2024-12-05",
     "claim_amount": 10070.18,
-    "filename": "claim_024.pdf"
+    "filename": "claim_024.pdf",
+    "filed_date": "2025-01-26"
   },
   {
     "policy_number": "POL-50334",
@@ -247,7 +271,8 @@
     "provider_name": "QuickCare Diagnostics",
     "incident_date": "2025-11-07",
     "claim_amount": 75370.79,
-    "filename": "claim_025.pdf"
+    "filename": "claim_025.pdf",
+    "filed_date": "2026-01-04"
   },
   {
     "policy_number": "CLM-74458",
@@ -257,7 +282,8 @@
     "provider_name": "Fortis Healthcare",
     "incident_date": "2025-08-01",
     "claim_amount": 85047.56,
-    "filename": "claim_026.pdf"
+    "filename": "claim_026.pdf",
+    "filed_date": "2025-09-09"
   },
   {
     "policy_number": "POL-76881",
@@ -267,7 +293,8 @@
     "provider_name": "Max Super Speciality",
     "incident_date": "2026-03-07",
     "claim_amount": 37987.37,
-    "filename": "claim_027.pdf"
+    "filename": "claim_027.pdf",
+    "filed_date": "2026-04-29"
   },
   {
     "policy_number": "POL-74840",
@@ -277,7 +304,8 @@
     "provider_name": "Fortis Healthcare",
     "incident_date": "2024-04-10",
     "claim_amount": 111522.36,
-    "filename": "claim_028.pdf"
+    "filename": "claim_028.pdf",
+    "filed_date": "2024-05-24"
   },
   {
     "policy_number": "POL-89742",
@@ -287,7 +315,8 @@
     "provider_name": "Max Super Speciality",
     "incident_date": "2025-12-12",
     "claim_amount": 1650.21,
-    "filename": "claim_029.pdf"
+    "filename": "claim_029.pdf",
+    "filed_date": "2026-01-02"
   },
   {
     "policy_number": "POL-54469",
@@ -297,6 +326,7 @@
     "provider_name": "Fortis Healthcare",
     "incident_date": "2024-07-27",
     "claim_amount": 158089.16,
-    "filename": "claim_030.pdf"
+    "filename": "claim_030.pdf",
+    "filed_date": "2024-09-17"
   }
 ]
