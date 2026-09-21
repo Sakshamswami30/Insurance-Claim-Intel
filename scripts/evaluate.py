@@ -1,4 +1,5 @@
 import json
+import time
 from pathlib import Path
 
 from src.ocr import extract_text_from_pdf
@@ -37,6 +38,8 @@ def evaluate_batch(truth_path: str, claims_dir: str, label: str):
         filename = record["filename"]
         pdf_path = Path(claims_dir) / filename
         print(f"[{label}] Processing {filename}...")
+
+        time.sleep(2)  # avoid hitting Groq free-tier TPM limit
 
         text = extract_text_from_pdf(str(pdf_path))
         extracted = extract_claim(text)

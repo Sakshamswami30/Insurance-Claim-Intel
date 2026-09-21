@@ -4,26 +4,18 @@ from pathlib import Path
 from reportlab.lib.pagesizes import A4
 from reportlab.pdfgen import canvas
 
-from src.doc_generator import (
-    generate_claim_data,
-    POLICY_PREFIXES,
-    FIRST_NAMES,
-    LAST_NAMES,
-    CLAIM_TYPES,
-    DIAGNOSES,
-    PROVIDERS,
-)
+from src.doc_generator import generate_claim_data
 
 
 # Alternate labels for the same field — a real source of extraction failures
 LABEL_VARIANTS = {
-    "policy_number": ["Policy Number", "Policy No", "Policy #"],
+    "policy_number": ["Policy Number", "Policy No", "Policy #", "Policy ID"],
     "claim_type": ["Claim Type", "Type of Claim", "Claim Category"],
-    "claimant_name": ["Claimant Name", "Claimant", "Name of Claimant"],
-    "diagnosis": ["Diagnosis", "Medical Diagnosis", "Condition"],
-    "provider_name": ["Treatment Provider", "Provider", "Hospital / Provider"],
-    "incident_date": ["Incident Date", "Date of Incident", "Event Date"],
-    "claim_amount": ["Claimed Amount", "Amount Claimed", "Claim Amount"],
+    "claimant_name": ["Claimant Name", "Claimant", "Name of Claimant", "Insured Name"],
+    "diagnosis": ["Diagnosis", "Reason for Claim", "Incident Description", "Claim Reason"],
+    "provider_name": ["Treatment Provider", "Provider", "Hospital / Provider", "Service Provider"],
+    "incident_date": ["Incident Date", "Date of Incident", "Event Date", "Date of Loss"],
+    "claim_amount": ["Claimed Amount", "Amount Claimed", "Claim Amount", "Total Claimed"],
 }
 
 NOISE_HEADERS = [
@@ -96,7 +88,6 @@ def generate_messy_batch(count: int, output_dir: str, truth_path: str, missing_r
     for i in range(1, count + 1):
         data = generate_claim_data()
 
-        # Decide whether this document is missing a field
         missing_field = None
         if random.random() < missing_rate:
             missing_field = random.choice(list(data.keys()))
@@ -107,7 +98,6 @@ def generate_messy_batch(count: int, output_dir: str, truth_path: str, missing_r
 
         record = dict(data)
         record["filename"] = filename
-        # Ground truth reflects what was actually printed
         if missing_field:
             record[missing_field] = None
         ground_truth.append(record)
