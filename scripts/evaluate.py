@@ -5,9 +5,6 @@ from src.ocr import extract_text_from_pdf
 from src.extract import extract_claim
 
 
-GROUND_TRUTH_PATH = "data/samples/claims_ground_truth.json"
-CLAIMS_DIR = "data/samples/claims"
-
 COMPARE_FIELDS = [
     "policy_number",
     "claim_type",
@@ -20,7 +17,6 @@ COMPARE_FIELDS = [
 
 
 def normalize(value):
-    """Basic cleanup for comparison — lowercase strings, strip whitespace."""
     if value is None:
         return None
     if isinstance(value, str):
@@ -30,8 +26,8 @@ def normalize(value):
     return value
 
 
-def main():
-    with open(GROUND_TRUTH_PATH, encoding="utf-8") as f:
+def evaluate_batch(truth_path: str, claims_dir: str, label: str):
+    with open(truth_path, encoding="utf-8") as f:
         ground_truth = json.load(f)
 
     results = {field: {"correct": 0, "total": 0} for field in COMPARE_FIELDS}
@@ -39,8 +35,8 @@ def main():
 
     for record in ground_truth:
         filename = record["filename"]
-        pdf_path = Path(CLAIMS_DIR) / filename
-        print(f"Processing {filename}...")
+        pdf_path = Path(claims_dir) / filename
+        print(f"[{label}] Processing {filename}...")
 
         text = extract_text_from_pdf(str(pdf_path))
         extracted = extract_claim(text)
@@ -61,21 +57,45 @@ def main():
                     "got": got,
                 })
 
-    print("\n" + "=" * 50)
-    print("RESULTS")
-    print("=" * 50)
+    print(f"\n{'=' * 50}")
+    print(f"RESULTS — {label}")
+    print(f"{'=' * 50}")
     for field in COMPARE_FIELDS:
         r = results[field]
         pct = 100 * r["correct"] / r["total"] if r["total"] else 0
         print(f"{field:20s} {r['correct']:3d}/{r['total']:3d}  ({pct:5.1f}%)")
 
-    print("\n" + "=" * 50)
-    print("SAMPLE FAILURES (first 10)")
-    print("=" * 50)
-    for f in failures[:10]:
-        print(f"{f['file']} | {f['field']}")
-        print(f"  expected: {f['expected']!r}")
-        print(f"  got:      {f['got']!r}")
+    total_correct = sum(r["correct"] for r in results.values())
+    total_fields = sum(r["total"] for r in results.values())
+    overall = 100 * total_correct / total_fields if total_fields else 0
+    print(f"\nOVERALL: {total_correct}/{total_fields} ({overall:.1f}%)")
+
+    if failures:
+        print(f"\nSAMPLE FAILURES ({label}, first 10)")
+        for f in failures[:10]:
+            print(f"  {f['file']} | {f['field']}")
+            print(f"    expected: {f['expected']!r}")
+            print(f"    got:      {f['got']!r}")
+
+    return results, failures
+
+
+def main():
+    print("Running CLEAN batch...")
+    evaluate_batch(
+        truth_path="data/samples/claims_ground_truth_clean.json",
+        claims_dir="data/samples/claims_clean",
+        label="CLEAN",
+    )
+
+    print("\n" + "#" * 50 + "\n")
+
+    print("Running MESSY batch...")
+    evaluate_batch(
+        truth_path="data/samples/claims_ground_truth_messy.json",
+        claims_dir="data/samples/claims_messy",
+        label="MESSY",
+    )
 
 
 if __name__ == "__main__":

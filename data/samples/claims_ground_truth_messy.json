@@ -1,0 +1,302 @@
+[
+  {
+    "policy_number": "INS-25820",
+    "claim_type": "Auto",
+    "claimant_name": "Vikram Mehta",
+    "diagnosis": "Viral fever",
+    "provider_name": "Fortis Healthcare",
+    "incident_date": "2024-06-01",
+    "claim_amount": 25812.54,
+    "filename": "claim_messy_001.pdf"
+  },
+  {
+    "policy_number": "CLM-86851",
+    "claim_type": "Medical",
+    "claimant_name": null,
+    "diagnosis": "Type 2 Diabetes",
+    "provider_name": "Apollo Clinic",
+    "incident_date": "2024-08-10",
+    "claim_amount": 60557.19,
+    "filename": "claim_messy_002.pdf"
+  },
+  {
+    "policy_number": "INS-68630",
+    "claim_type": "Travel",
+    "claimant_name": "Priya Verma",
+    "diagnosis": "Road accident - minor injury",
+    "provider_name": null,
+    "incident_date": "2025-06-25",
+    "claim_amount": 17748.11,
+    "filename": "claim_messy_003.pdf"
+  },
+  {
+    "policy_number": "INS-79631",
+    "claim_type": "Medical",
+    "claimant_name": "Anjali Reddy",
+    "diagnosis": "Viral fever",
+    "provider_name": "Fortis Healthcare",
+    "incident_date": "2024-06-20",
+    "claim_amount": 64343.92,
+    "filename": "claim_messy_004.pdf"
+  },
+  {
+    "policy_number": "INS-13017",
+    "claim_type": "Travel",
+    "claimant_name": "Rahul Sharma",
+    "diagnosis": "Fracture - left femur",
+    "provider_name": "AutoFix Garage",
+    "incident_date": "2026-06-23",
+    "claim_amount": 171030.28,
+    "filename": "claim_messy_005.pdf"
+  },
+  {
+    "policy_number": null,
+    "claim_type": "Property",
+    "claimant_name": "Vikram Gupta",
+    "diagnosis": "Type 2 Diabetes",
+    "provider_name": "Apollo Clinic",
+    "incident_date": "2025-02-19",
+    "claim_amount": 211805.81,
+    "filename": "claim_messy_006.pdf"
+  },
+  {
+    "policy_number": "CLM-83953",
+    "claim_type": "Property",
+    "claimant_name": "Rahul Verma",
+    "diagnosis": "Acute appendicitis",
+    "provider_name": "Max Super Speciality",
+    "incident_date": "2024-04-05",
+    "claim_amount": 169546.16,
+    "filename": "claim_messy_007.pdf"
+  },
+  {
+    "policy_number": "INS-56190",
+    "claim_type": "Auto",
+    "claimant_name": "Vikram Patel",
+    "diagnosis": "Water damage - kitchen",
+    "provider_name": "QuickCare Diagnostics",
+    "incident_date": "2024-04-28",
+    "claim_amount": 68960.23,
+    "filename": "claim_messy_008.pdf"
+  },
+  {
+    "policy_number": "INS-58884",
+    "claim_type": "Medical",
+    "claimant_name": "Arjun Patel",
+    "diagnosis": "Water damage - kitchen",
+    "provider_name": "AutoFix Garage",
+    "incident_date": "2026-10-14",
+    "claim_amount": 10658.39,
+    "filename": "claim_messy_009.pdf"
+  },
+  {
+    "policy_number": "CLM-22084",
+    "claim_type": "Travel",
+    "claimant_name": "Anjali Gupta",
+    "diagnosis": "Water damage - kitchen",
+    "provider_name": "Fortis Healthcare",
+    "incident_date": "2025-03-20",
+    "claim_amount": 137062.01,
+    "filename": "claim_messy_010.pdf"
+  },
+  {
+    "policy_number": "POL-90729",
+    "claim_type": "Property",
+    "claimant_name": "Priya Verma",
+    "diagnosis": null,
+    "provider_name": "Max Super Speciality",
+    "incident_date": "2025-09-06",
+    "claim_amount": 157889.41,
+    "filename": "claim_messy_011.pdf"
+  },
+  {
+    "policy_number": "INS-43924",
+    "claim_type": "Medical",
+    "claimant_name": "Sneha Nair",
+    "diagnosis": "Type 2 Diabetes",
+    "provider_name": "AutoFix Garage",
+    "incident_date": "2025-09-18",
+    "claim_amount": 169762.65,
+    "filename": "claim_messy_012.pdf"
+  },
+  {
+    "policy_number": "INS-23009",
+    "claim_type": "Travel",
+    "claimant_name": "Sneha Patel",
+    "diagnosis": "Lost baggage",
+    "provider_name": "Manipal Hospital",
+    "incident_date": "2024-06-19",
+    "claim_amount": 51970.25,
+    "filename": "claim_messy_013.pdf"
+  },
+  {
+    "policy_number": "CLM-57410",
+    "claim_type": "Travel",
+    "claimant_name": "Priya Patel",
+    "diagnosis": "Road accident - minor injury",
+    "provider_name": "Fortis Healthcare",
+    "incident_date": "2025-07-12",
+    "claim_amount": 9605.65,
+    "filename": "claim_messy_014.pdf"
+  },
+  {
+    "policy_number": "POL-82791",
+    "claim_type": "Medical",
+    "claimant_name": "Neha Mehta",
+    "diagnosis": "Hypertension",
+    "provider_name": "AutoFix Garage",
+    "incident_date": "2025-04-08",
+    "claim_amount": 32905.72,
+    "filename": "claim_messy_015.pdf"
+  },
+  {
+    "policy_number": "POL-55192",
+    "claim_type": "Medical",
+    "claimant_name": "Sneha Reddy",
+    "diagnosis": "Acute appendicitis",
+    "provider_name": "Manipal Hospital",
+    "incident_date": "2025-02-02",
+    "claim_amount": 221854.44,
+    "filename": "claim_messy_016.pdf"
+  },
+  {
+    "policy_number": "INS-85288",
+    "claim_type": "Auto",
+    "claimant_name": "Rahul Reddy",
+    "diagnosis": "Hypertension",
+    "provider_name": "Max Super Speciality",
+    "incident_date": "2024-04-02",
+    "claim_amount": 222806.19,
+    "filename": "claim_messy_017.pdf"
+  },
+  {
+    "policy_number": "INS-27552",
+    "claim_type": "Medical",
+    "claimant_name": "Arjun Reddy",
+    "diagnosis": "Hypertension",
+    "provider_name": "Manipal Hospital",
+    "incident_date": "2025-04-02",
+    "claim_amount": 187494.05,
+    "filename": "claim_messy_018.pdf"
+  },
+  {
+    "policy_number": null,
+    "claim_type": "Travel",
+    "claimant_name": "Priya Iyer",
+    "diagnosis": "Acute appendicitis",
+    "provider_name": "AutoFix Garage",
+    "incident_date": "2024-06-01",
+    "claim_amount": 63667.53,
+    "filename": "claim_messy_019.pdf"
+  },
+  {
+    "policy_number": "CLM-28767",
+    "claim_type": "Auto",
+    "claimant_name": "Kavya Mehta",
+    "diagnosis": "Hypertension",
+    "provider_name": "Max Super Speciality",
+    "incident_date": null,
+    "claim_amount": 157642.53,
+    "filename": "claim_messy_020.pdf"
+  },
+  {
+    "policy_number": "CLM-12921",
+    "claim_type": "Auto",
+    "claimant_name": "Priya Reddy",
+    "diagnosis": "Road accident - minor injury",
+    "provider_name": "City General Hospital",
+    "incident_date": "2024-10-17",
+    "claim_amount": 151945.48,
+    "filename": "claim_messy_021.pdf"
+  },
+  {
+    "policy_number": "CLM-89865",
+    "claim_type": "Auto",
+    "claimant_name": "Anjali Nair",
+    "diagnosis": "Fracture - left femur",
+    "provider_name": "Fortis Healthcare",
+    "incident_date": "2024-06-04",
+    "claim_amount": 16105.57,
+    "filename": "claim_messy_022.pdf"
+  },
+  {
+    "policy_number": "CLM-40127",
+    "claim_type": "Travel",
+    "claimant_name": "Vikram Sharma",
+    "diagnosis": "Type 2 Diabetes",
+    "provider_name": "Apollo Clinic",
+    "incident_date": "2026-04-04",
+    "claim_amount": 219705.45,
+    "filename": "claim_messy_023.pdf"
+  },
+  {
+    "policy_number": "INS-59723",
+    "claim_type": "Auto",
+    "claimant_name": "Vikram Patel",
+    "diagnosis": "Acute appendicitis",
+    "provider_name": "QuickCare Diagnostics",
+    "incident_date": "2026-05-11",
+    "claim_amount": 207793.82,
+    "filename": "claim_messy_024.pdf"
+  },
+  {
+    "policy_number": "CLM-14048",
+    "claim_type": "Property",
+    "claimant_name": "Kavya Verma",
+    "diagnosis": "Viral fever",
+    "provider_name": "AutoFix Garage",
+    "incident_date": "2025-02-04",
+    "claim_amount": 248529.63,
+    "filename": "claim_messy_025.pdf"
+  },
+  {
+    "policy_number": "CLM-47658",
+    "claim_type": "Travel",
+    "claimant_name": "Amit Verma",
+    "diagnosis": "Lost baggage",
+    "provider_name": "Manipal Hospital",
+    "incident_date": "2026-04-27",
+    "claim_amount": 113389.38,
+    "filename": "claim_messy_026.pdf"
+  },
+  {
+    "policy_number": "POL-19035",
+    "claim_type": "Auto",
+    "claimant_name": "Vikram Singh",
+    "diagnosis": "Hypertension",
+    "provider_name": "City General Hospital",
+    "incident_date": "2025-12-03",
+    "claim_amount": 83716.28,
+    "filename": "claim_messy_027.pdf"
+  },
+  {
+    "policy_number": "INS-28278",
+    "claim_type": "Property",
+    "claimant_name": "Kavya Patel",
+    "diagnosis": "Lost baggage",
+    "provider_name": "AutoFix Garage",
+    "incident_date": "2025-08-08",
+    "claim_amount": 151368.89,
+    "filename": "claim_messy_028.pdf"
+  },
+  {
+    "policy_number": "POL-22584",
+    "claim_type": "Travel",
+    "claimant_name": "Amit Reddy",
+    "diagnosis": "Acute appendicitis",
+    "provider_name": "Fortis Healthcare",
+    "incident_date": "2025-09-06",
+    "claim_amount": 10551.36,
+    "filename": "claim_messy_029.pdf"
+  },
+  {
+    "policy_number": "INS-38382",
+    "claim_type": "Medical",
+    "claimant_name": "Neha Verma",
+    "diagnosis": "Fracture - left femur",
+    "provider_name": "Manipal Hospital",
+    "incident_date": "2025-07-13",
+    "claim_amount": 144348.64,
+    "filename": "claim_messy_030.pdf"
+  }
+]
