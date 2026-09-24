@@ -36,3 +36,5 @@ data/processed/
 *.pth
 *.ckpt
 *.safetensors
+# Evaluation checkpoints (local state)
+data/samples/eval_checkpoint_*.json
