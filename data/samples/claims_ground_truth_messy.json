@@ -9,7 +9,7 @@
     "filed_date": "2026-09-23",
     "claim_amount": 82294.75,
     "filename": "claim_messy_001.pdf",
-    "risk_score": 0.3911,
+    "risk_score": 0.2962,
     "is_high_risk": false
   },
   {
@@ -22,7 +22,7 @@
     "filed_date": "2025-09-22",
     "claim_amount": 95391.87,
     "filename": "claim_messy_002.pdf",
-    "risk_score": 0.3532,
+    "risk_score": 0.3606,
     "is_high_risk": false
   },
   {
@@ -35,7 +35,7 @@
     "filed_date": "2024-05-31",
     "claim_amount": 123294.9,
     "filename": "claim_messy_003.pdf",
-    "risk_score": 0.3029,
+    "risk_score": 0.3121,
     "is_high_risk": false
   },
   {
@@ -48,7 +48,7 @@
     "filed_date": "2024-03-20",
     "claim_amount": 115677.05,
     "filename": "claim_messy_004.pdf",
-    "risk_score": 0.7109,
+    "risk_score": 0.6636,
     "is_high_risk": true
   },
   {
@@ -61,7 +61,7 @@
     "filed_date": "2024-10-08",
     "claim_amount": 44621.82,
     "filename": "claim_messy_005.pdf",
-    "risk_score": 0.1233,
+    "risk_score": 0.1703,
     "is_high_risk": false
   },
   {
@@ -74,8 +74,8 @@
     "filed_date": "2025-03-30",
     "claim_amount": 183379.88,
     "filename": "claim_messy_006.pdf",
-    "risk_score": 0.6286,
-    "is_high_risk": true
+    "risk_score": 0.5947,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-34948",
@@ -87,7 +87,7 @@
     "filed_date": "2024-06-18",
     "claim_amount": 76730.43,
     "filename": "claim_messy_007.pdf",
-    "risk_score": 0.5047,
+    "risk_score": 0.5196,
     "is_high_risk": false
   },
   {
@@ -100,7 +100,7 @@
     "filed_date": "2026-03-09",
     "claim_amount": 171107.18,
     "filename": "claim_messy_008.pdf",
-    "risk_score": 0.6415,
+    "risk_score": 0.6691,
     "is_high_risk": true
   },
   {
@@ -113,7 +113,7 @@
     "filed_date": "2024-12-16",
     "claim_amount": 108654.8,
     "filename": "claim_messy_009.pdf",
-    "risk_score": 0.3742,
+    "risk_score": 0.3258,
     "is_high_risk": false
   },
   {
@@ -126,8 +126,8 @@
     "filed_date": "2024-07-31",
     "claim_amount": 130478.41,
     "filename": "claim_messy_010.pdf",
-    "risk_score": 0.6454,
-    "is_high_risk": true
+    "risk_score": 0.5707,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-20080",
@@ -139,7 +139,7 @@
     "filed_date": "2024-11-22",
     "claim_amount": 128704.46,
     "filename": "claim_messy_011.pdf",
-    "risk_score": 0.6064,
+    "risk_score": 0.7028,
     "is_high_risk": true
   },
   {
@@ -152,7 +152,7 @@
     "filed_date": "2024-02-27",
     "claim_amount": 245523.53,
     "filename": "claim_messy_012.pdf",
-    "risk_score": 0.5373,
+    "risk_score": 0.5896,
     "is_high_risk": false
   },
   {
@@ -165,7 +165,7 @@
     "filed_date": "2026-03-02",
     "claim_amount": 150214.54,
     "filename": "claim_messy_013.pdf",
-    "risk_score": 0.68,
+    "risk_score": 0.7816,
     "is_high_risk": true
   },
   {
@@ -178,7 +178,7 @@
     "filed_date": "2024-12-12",
     "claim_amount": 173697.12,
     "filename": "claim_messy_014.pdf",
-    "risk_score": 0.7735,
+    "risk_score": 0.7285,
     "is_high_risk": true
   },
   {
@@ -191,7 +191,7 @@
     "filed_date": "2024-06-16",
     "claim_amount": 143746.02,
     "filename": "claim_messy_015.pdf",
-    "risk_score": 0.5682,
+    "risk_score": 0.5254,
     "is_high_risk": false
   },
   {
@@ -204,7 +204,7 @@
     "filed_date": "2025-07-14",
     "claim_amount": 103711.64,
     "filename": "claim_messy_016.pdf",
-    "risk_score": 0.2562,
+    "risk_score": 0.2829,
     "is_high_risk": false
   },
   {
@@ -217,7 +217,7 @@
     "filed_date": "2024-10-24",
     "claim_amount": 117033.46,
     "filename": "claim_messy_017.pdf",
-    "risk_score": 0.3445,
+    "risk_score": 0.3516,
     "is_high_risk": false
   },
   {
@@ -230,7 +230,7 @@
     "filed_date": "2025-08-10",
     "claim_amount": 91433.46,
     "filename": "claim_messy_018.pdf",
-    "risk_score": 0.4127,
+    "risk_score": 0.2444,
     "is_high_risk": false
   },
   {
@@ -243,7 +243,7 @@
     "filed_date": "2025-06-20",
     "claim_amount": 222116.61,
     "filename": "claim_messy_019.pdf",
-    "risk_score": 0.4789,
+    "risk_score": 0.4647,
     "is_high_risk": false
   },
   {
@@ -256,8 +256,8 @@
     "filed_date": "2025-12-18",
     "claim_amount": 26184.54,
     "filename": "claim_messy_020.pdf",
-    "risk_score": 0.6247,
-    "is_high_risk": true
+    "risk_score": 0.5162,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-41291",
@@ -269,7 +269,7 @@
     "filed_date": "2026-11-06",
     "claim_amount": 194769.52,
     "filename": "claim_messy_021.pdf",
-    "risk_score": 0.5327,
+    "risk_score": 0.593,
     "is_high_risk": false
   },
   {
@@ -282,7 +282,7 @@
     "filed_date": "2025-09-04",
     "claim_amount": 33872.41,
     "filename": "claim_messy_022.pdf",
-    "risk_score": 0.0872,
+    "risk_score": 0.067,
     "is_high_risk": false
   },
   {
@@ -295,7 +295,7 @@
     "filed_date": "2025-03-27",
     "claim_amount": 97284.37,
     "filename": "claim_messy_023.pdf",
-    "risk_score": 0.5057,
+    "risk_score": 0.4304,
     "is_high_risk": false
   },
   {
@@ -308,7 +308,7 @@
     "filed_date": "2027-01-19",
     "claim_amount": 51055.67,
     "filename": "claim_messy_024.pdf",
-    "risk_score": 0.2771,
+    "risk_score": 0.2802,
     "is_high_risk": false
   },
   {
@@ -321,7 +321,7 @@
     "filed_date": "2025-05-06",
     "claim_amount": 102204.96,
     "filename": "claim_messy_025.pdf",
-    "risk_score": 0.3951,
+    "risk_score": 0.4586,
     "is_high_risk": false
   },
   {
@@ -334,7 +334,7 @@
     "filed_date": "2026-02-03",
     "claim_amount": 113490.81,
     "filename": "claim_messy_026.pdf",
-    "risk_score": 0.3821,
+    "risk_score": 0.3226,
     "is_high_risk": false
   },
   {
@@ -347,7 +347,7 @@
     "filed_date": "2025-11-16",
     "claim_amount": 122023.75,
     "filename": "claim_messy_027.pdf",
-    "risk_score": 0.5693,
+    "risk_score": 0.5092,
     "is_high_risk": false
   },
   {
@@ -360,7 +360,7 @@
     "filed_date": "2024-06-05",
     "claim_amount": 5126.55,
     "filename": "claim_messy_028.pdf",
-    "risk_score": 0.0353,
+    "risk_score": 0.1394,
     "is_high_risk": false
   },
   {
@@ -373,7 +373,7 @@
     "filed_date": "2024-04-01",
     "claim_amount": 225984.08,
     "filename": "claim_messy_029.pdf",
-    "risk_score": 0.363,
+    "risk_score": 0.3977,
     "is_high_risk": false
   },
   {
@@ -386,7 +386,7 @@
     "filed_date": "2025-07-14",
     "claim_amount": 227139.31,
     "filename": "claim_messy_030.pdf",
-    "risk_score": 0.5911,
+    "risk_score": 0.5524,
     "is_high_risk": false
   },
   {
@@ -399,7 +399,7 @@
     "filed_date": "2024-02-16",
     "claim_amount": 98800.26,
     "filename": "claim_messy_031.pdf",
-    "risk_score": 0.691,
+    "risk_score": 0.7193,
     "is_high_risk": true
   },
   {
@@ -412,7 +412,7 @@
     "filed_date": "2025-01-06",
     "claim_amount": 18788.62,
     "filename": "claim_messy_032.pdf",
-    "risk_score": 0.5624,
+    "risk_score": 0.4854,
     "is_high_risk": false
   },
   {
@@ -425,7 +425,7 @@
     "filed_date": "2024-11-06",
     "claim_amount": 200404.29,
     "filename": "claim_messy_033.pdf",
-    "risk_score": 0.3574,
+    "risk_score": 0.3675,
     "is_high_risk": false
   },
   {
@@ -438,7 +438,7 @@
     "filed_date": "2026-04-26",
     "claim_amount": 55536.74,
     "filename": "claim_messy_034.pdf",
-    "risk_score": 0.5524,
+    "risk_score": 0.4429,
     "is_high_risk": false
   },
   {
@@ -451,7 +451,7 @@
     "filed_date": "2025-03-02",
     "claim_amount": 94682.6,
     "filename": "claim_messy_035.pdf",
-    "risk_score": 0.3611,
+    "risk_score": 0.2151,
     "is_high_risk": false
   },
   {
@@ -464,7 +464,7 @@
     "filed_date": "2024-03-31",
     "claim_amount": 37730.21,
     "filename": "claim_messy_036.pdf",
-    "risk_score": 0.0649,
+    "risk_score": 0.1799,
     "is_high_risk": false
   },
   {
@@ -477,7 +477,7 @@
     "filed_date": "2025-06-29",
     "claim_amount": 45786.66,
     "filename": "claim_messy_037.pdf",
-    "risk_score": 0.2073,
+    "risk_score": 0.0877,
     "is_high_risk": false
   },
   {
@@ -490,8 +490,8 @@
     "filed_date": "2024-04-24",
     "claim_amount": 69435.09,
     "filename": "claim_messy_038.pdf",
-    "risk_score": 0.6062,
-    "is_high_risk": true
+    "risk_score": 0.5528,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-15999",
@@ -503,7 +503,7 @@
     "filed_date": "2026-12-04",
     "claim_amount": 175519.15,
     "filename": "claim_messy_039.pdf",
-    "risk_score": 0.4733,
+    "risk_score": 0.589,
     "is_high_risk": false
   },
   {
@@ -516,7 +516,7 @@
     "filed_date": "2025-04-26",
     "claim_amount": 127322.93,
     "filename": "claim_messy_040.pdf",
-    "risk_score": 0.2827,
+    "risk_score": 0.248,
     "is_high_risk": false
   },
   {
@@ -529,7 +529,7 @@
     "filed_date": "2024-01-26",
     "claim_amount": 61459.39,
     "filename": "claim_messy_041.pdf",
-    "risk_score": 0.1916,
+    "risk_score": 0.3873,
     "is_high_risk": false
   },
   {
@@ -542,7 +542,7 @@
     "filed_date": "2024-09-25",
     "claim_amount": 91013.36,
     "filename": "claim_messy_042.pdf",
-    "risk_score": 0.2979,
+    "risk_score": 0.2989,
     "is_high_risk": false
   },
   {
@@ -555,7 +555,7 @@
     "filed_date": "2025-10-14",
     "claim_amount": 76257.19,
     "filename": "claim_messy_043.pdf",
-    "risk_score": 0.2694,
+    "risk_score": 0.1777,
     "is_high_risk": false
   },
   {
@@ -568,7 +568,7 @@
     "filed_date": "2024-11-24",
     "claim_amount": 191424.28,
     "filename": "claim_messy_044.pdf",
-    "risk_score": 0.3422,
+    "risk_score": 0.4418,
     "is_high_risk": false
   },
   {
@@ -581,7 +581,7 @@
     "filed_date": "2024-02-21",
     "claim_amount": 92857.57,
     "filename": "claim_messy_045.pdf",
-    "risk_score": 0.267,
+    "risk_score": 0.2759,
     "is_high_risk": false
   },
   {
@@ -594,7 +594,7 @@
     "filed_date": "2024-11-03",
     "claim_amount": 176507.72,
     "filename": "claim_messy_046.pdf",
-    "risk_score": 0.3338,
+    "risk_score": 0.4333,
     "is_high_risk": false
   },
   {
@@ -607,7 +607,7 @@
     "filed_date": "2025-03-06",
     "claim_amount": 211214.42,
     "filename": "claim_messy_047.pdf",
-    "risk_score": 0.7407,
+    "risk_score": 0.8126,
     "is_high_risk": true
   },
   {
@@ -620,7 +620,7 @@
     "filed_date": "2026-02-20",
     "claim_amount": 167973.83,
     "filename": "claim_messy_048.pdf",
-    "risk_score": 0.4818,
+    "risk_score": 0.4858,
     "is_high_risk": false
   },
   {
@@ -633,7 +633,7 @@
     "filed_date": "2026-04-03",
     "claim_amount": 147231.02,
     "filename": "claim_messy_049.pdf",
-    "risk_score": 0.6291,
+    "risk_score": 0.6995,
     "is_high_risk": true
   },
   {
@@ -646,8 +646,8 @@
     "filed_date": "2026-10-26",
     "claim_amount": 243502.18,
     "filename": "claim_messy_050.pdf",
-    "risk_score": 0.6073,
-    "is_high_risk": true
+    "risk_score": 0.5613,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-73708",
@@ -659,7 +659,7 @@
     "filed_date": "2025-10-03",
     "claim_amount": 217636.17,
     "filename": "claim_messy_051.pdf",
-    "risk_score": 0.5138,
+    "risk_score": 0.5055,
     "is_high_risk": false
   },
   {
@@ -672,7 +672,7 @@
     "filed_date": "2024-03-12",
     "claim_amount": 27184.81,
     "filename": "claim_messy_052.pdf",
-    "risk_score": 0.1669,
+    "risk_score": 0.2231,
     "is_high_risk": false
   },
   {
@@ -685,7 +685,7 @@
     "filed_date": "2026-11-03",
     "claim_amount": 215470.03,
     "filename": "claim_messy_053.pdf",
-    "risk_score": 0.6591,
+    "risk_score": 0.7665,
     "is_high_risk": true
   },
   {
@@ -698,7 +698,7 @@
     "filed_date": "2025-04-07",
     "claim_amount": 196020.46,
     "filename": "claim_messy_054.pdf",
-    "risk_score": 0.4833,
+    "risk_score": 0.4589,
     "is_high_risk": false
   },
   {
@@ -711,7 +711,7 @@
     "filed_date": "2024-11-26",
     "claim_amount": 236196.34,
     "filename": "claim_messy_055.pdf",
-    "risk_score": 0.8553,
+    "risk_score": 0.7141,
     "is_high_risk": true
   },
   {
@@ -724,7 +724,7 @@
     "filed_date": "2025-10-08",
     "claim_amount": 128426.7,
     "filename": "claim_messy_056.pdf",
-    "risk_score": 0.1821,
+    "risk_score": 0.301,
     "is_high_risk": false
   },
   {
@@ -737,7 +737,7 @@
     "filed_date": "2026-05-09",
     "claim_amount": 219452.89,
     "filename": "claim_messy_057.pdf",
-    "risk_score": 0.9129,
+    "risk_score": 0.89,
     "is_high_risk": true
   },
   {
@@ -750,7 +750,7 @@
     "filed_date": "2026-03-23",
     "claim_amount": 219409.42,
     "filename": "claim_messy_058.pdf",
-    "risk_score": 0.4059,
+    "risk_score": 0.5476,
     "is_high_risk": false
   },
   {
@@ -763,7 +763,7 @@
     "filed_date": "2026-05-20",
     "claim_amount": 79230.89,
     "filename": "claim_messy_059.pdf",
-    "risk_score": 0.196,
+    "risk_score": 0.1685,
     "is_high_risk": false
   },
   {
@@ -776,7 +776,7 @@
     "filed_date": "2027-01-24",
     "claim_amount": 242529.16,
     "filename": "claim_messy_060.pdf",
-    "risk_score": 0.7403,
+    "risk_score": 0.7347,
     "is_high_risk": true
   },
   {
@@ -789,7 +789,7 @@
     "filed_date": "2025-03-03",
     "claim_amount": 96855.68,
     "filename": "claim_messy_061.pdf",
-    "risk_score": 0.6565,
+    "risk_score": 0.6146,
     "is_high_risk": true
   },
   {
@@ -802,7 +802,7 @@
     "filed_date": "2026-03-04",
     "claim_amount": 87357.01,
     "filename": "claim_messy_062.pdf",
-    "risk_score": 0.5591,
+    "risk_score": 0.5655,
     "is_high_risk": false
   },
   {
@@ -815,7 +815,7 @@
     "filed_date": "2026-05-02",
     "claim_amount": 58839.69,
     "filename": "claim_messy_063.pdf",
-    "risk_score": 0.5918,
+    "risk_score": 0.5728,
     "is_high_risk": false
   },
   {
@@ -828,7 +828,7 @@
     "filed_date": "2024-11-19",
     "claim_amount": 76704.39,
     "filename": "claim_messy_064.pdf",
-    "risk_score": 0.266,
+    "risk_score": 0.1094,
     "is_high_risk": false
   },
   {
@@ -841,7 +841,7 @@
     "filed_date": "2024-08-10",
     "claim_amount": 67544.46,
     "filename": "claim_messy_065.pdf",
-    "risk_score": 0.1819,
+    "risk_score": 0.114,
     "is_high_risk": false
   },
   {
@@ -854,7 +854,7 @@
     "filed_date": "2024-12-28",
     "claim_amount": 153271.22,
     "filename": "claim_messy_066.pdf",
-    "risk_score": 0.4337,
+    "risk_score": 0.3555,
     "is_high_risk": false
   },
   {
@@ -867,8 +867,8 @@
     "filed_date": "2026-12-26",
     "claim_amount": 172687.77,
     "filename": "claim_messy_067.pdf",
-    "risk_score": 0.6432,
-    "is_high_risk": true
+    "risk_score": 0.5889,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-92087",
@@ -880,7 +880,7 @@
     "filed_date": "2024-11-23",
     "claim_amount": 73024.04,
     "filename": "claim_messy_068.pdf",
-    "risk_score": 0.4444,
+    "risk_score": 0.3301,
     "is_high_risk": false
   },
   {
@@ -893,7 +893,7 @@
     "filed_date": "2024-08-03",
     "claim_amount": 107710.86,
     "filename": "claim_messy_069.pdf",
-    "risk_score": 0.3506,
+    "risk_score": 0.3824,
     "is_high_risk": false
   },
   {
@@ -906,7 +906,7 @@
     "filed_date": "2025-02-24",
     "claim_amount": 237294.71,
     "filename": "claim_messy_070.pdf",
-    "risk_score": 0.5933,
+    "risk_score": 0.4882,
     "is_high_risk": false
   },
   {
@@ -919,7 +919,7 @@
     "filed_date": "2026-10-14",
     "claim_amount": 36382.48,
     "filename": "claim_messy_071.pdf",
-    "risk_score": 0.3146,
+    "risk_score": 0.2544,
     "is_high_risk": false
   },
   {
@@ -932,7 +932,7 @@
     "filed_date": "2024-02-08",
     "claim_amount": 137684.57,
     "filename": "claim_messy_072.pdf",
-    "risk_score": 0.3659,
+    "risk_score": 0.3458,
     "is_high_risk": false
   },
   {
@@ -945,7 +945,7 @@
     "filed_date": "2026-05-05",
     "claim_amount": 181089.12,
     "filename": "claim_messy_073.pdf",
-    "risk_score": 0.7986,
+    "risk_score": 0.7353,
     "is_high_risk": true
   },
   {
@@ -958,8 +958,8 @@
     "filed_date": "2025-04-12",
     "claim_amount": 200822.39,
     "filename": "claim_messy_074.pdf",
-    "risk_score": 0.6015,
-    "is_high_risk": true
+    "risk_score": 0.4961,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-27696",
@@ -971,7 +971,7 @@
     "filed_date": "2026-01-15",
     "claim_amount": 240287.79,
     "filename": "claim_messy_075.pdf",
-    "risk_score": 0.4839,
+    "risk_score": 0.5049,
     "is_high_risk": false
   },
   {
@@ -984,7 +984,7 @@
     "filed_date": "2024-08-27",
     "claim_amount": 176757.42,
     "filename": "claim_messy_076.pdf",
-    "risk_score": 0.5315,
+    "risk_score": 0.3986,
     "is_high_risk": false
   },
   {
@@ -997,7 +997,7 @@
     "filed_date": "2024-10-21",
     "claim_amount": 162471.36,
     "filename": "claim_messy_077.pdf",
-    "risk_score": 0.4188,
+    "risk_score": 0.4194,
     "is_high_risk": false
   },
   {
@@ -1010,7 +1010,7 @@
     "filed_date": "2024-02-18",
     "claim_amount": 223445.76,
     "filename": "claim_messy_078.pdf",
-    "risk_score": 0.3694,
+    "risk_score": 0.5207,
     "is_high_risk": false
   },
   {
@@ -1023,7 +1023,7 @@
     "filed_date": "2026-05-19",
     "claim_amount": 56620.36,
     "filename": "claim_messy_079.pdf",
-    "risk_score": 0.3889,
+    "risk_score": 0.5166,
     "is_high_risk": false
   },
   {
@@ -1036,7 +1036,7 @@
     "filed_date": "2024-01-16",
     "claim_amount": 173384.46,
     "filename": "claim_messy_080.pdf",
-    "risk_score": 0.3808,
+    "risk_score": 0.4127,
     "is_high_risk": false
   },
   {
@@ -1049,7 +1049,7 @@
     "filed_date": "2025-10-21",
     "claim_amount": 113467.76,
     "filename": "claim_messy_081.pdf",
-    "risk_score": 0.2519,
+    "risk_score": 0.1715,
     "is_high_risk": false
   },
   {
@@ -1062,7 +1062,7 @@
     "filed_date": "2026-05-16",
     "claim_amount": 98807.18,
     "filename": "claim_messy_082.pdf",
-    "risk_score": 0.3385,
+    "risk_score": 0.3379,
     "is_high_risk": false
   },
   {
@@ -1075,7 +1075,7 @@
     "filed_date": "2024-03-23",
     "claim_amount": 69362.65,
     "filename": "claim_messy_083.pdf",
-    "risk_score": 0.3253,
+    "risk_score": 0.3211,
     "is_high_risk": false
   },
   {
@@ -1088,7 +1088,7 @@
     "filed_date": "2025-03-13",
     "claim_amount": 167678.24,
     "filename": "claim_messy_084.pdf",
-    "risk_score": 0.4518,
+    "risk_score": 0.4034,
     "is_high_risk": false
   },
   {
@@ -1101,7 +1101,7 @@
     "filed_date": "2026-03-19",
     "claim_amount": 195072.59,
     "filename": "claim_messy_085.pdf",
-    "risk_score": 0.9378,
+    "risk_score": 0.8397,
     "is_high_risk": true
   },
   {
@@ -1114,7 +1114,7 @@
     "filed_date": "2026-02-12",
     "claim_amount": 106565.31,
     "filename": "claim_messy_086.pdf",
-    "risk_score": 0.2725,
+    "risk_score": 0.2326,
     "is_high_risk": false
   },
   {
@@ -1127,7 +1127,7 @@
     "filed_date": "2025-12-01",
     "claim_amount": 61169.16,
     "filename": "claim_messy_087.pdf",
-    "risk_score": 0.3382,
+    "risk_score": 0.4472,
     "is_high_risk": false
   },
   {
@@ -1140,7 +1140,7 @@
     "filed_date": "2024-02-23",
     "claim_amount": 221333.4,
     "filename": "claim_messy_088.pdf",
-    "risk_score": 0.3415,
+    "risk_score": 0.3664,
     "is_high_risk": false
   },
   {
@@ -1153,7 +1153,7 @@
     "filed_date": "2026-11-17",
     "claim_amount": 47714.77,
     "filename": "claim_messy_089.pdf",
-    "risk_score": 0.5365,
+    "risk_score": 0.4446,
     "is_high_risk": false
   },
   {
@@ -1166,7 +1166,7 @@
     "filed_date": "2024-09-06",
     "claim_amount": 98816.45,
     "filename": "claim_messy_090.pdf",
-    "risk_score": 0.3595,
+    "risk_score": 0.4657,
     "is_high_risk": false
   },
   {
@@ -1179,7 +1179,7 @@
     "filed_date": "2025-01-31",
     "claim_amount": 73371.1,
     "filename": "claim_messy_091.pdf",
-    "risk_score": 0.499,
+    "risk_score": 0.4021,
     "is_high_risk": false
   },
   {
@@ -1192,8 +1192,8 @@
     "filed_date": "2025-11-17",
     "claim_amount": 86429.61,
     "filename": "claim_messy_092.pdf",
-    "risk_score": 0.59,
-    "is_high_risk": false
+    "risk_score": 0.6864,
+    "is_high_risk": true
   },
   {
     "policy_number": "CLM-27111",
@@ -1205,7 +1205,7 @@
     "filed_date": "2025-12-05",
     "claim_amount": 185474.63,
     "filename": "claim_messy_093.pdf",
-    "risk_score": 0.3273,
+    "risk_score": 0.4169,
     "is_high_risk": false
   },
   {
@@ -1218,7 +1218,7 @@
     "filed_date": "2025-06-30",
     "claim_amount": 233756.96,
     "filename": "claim_messy_094.pdf",
-    "risk_score": 0.5062,
+    "risk_score": 0.3863,
     "is_high_risk": false
   },
   {
@@ -1231,7 +1231,7 @@
     "filed_date": "2024-07-09",
     "claim_amount": 142424.12,
     "filename": "claim_messy_095.pdf",
-    "risk_score": 0.3252,
+    "risk_score": 0.3702,
     "is_high_risk": false
   },
   {
@@ -1244,7 +1244,7 @@
     "filed_date": "2025-09-18",
     "claim_amount": 15920.21,
     "filename": "claim_messy_096.pdf",
-    "risk_score": 0.5211,
+    "risk_score": 0.5421,
     "is_high_risk": false
   },
   {
@@ -1257,7 +1257,7 @@
     "filed_date": "2024-01-07",
     "claim_amount": 191076.98,
     "filename": "claim_messy_097.pdf",
-    "risk_score": 0.7543,
+    "risk_score": 0.8293,
     "is_high_risk": true
   },
   {
@@ -1270,7 +1270,7 @@
     "filed_date": "2027-02-17",
     "claim_amount": 196148.93,
     "filename": "claim_messy_098.pdf",
-    "risk_score": 0.2823,
+    "risk_score": 0.4492,
     "is_high_risk": false
   },
   {
@@ -1283,8 +1283,8 @@
     "filed_date": "2025-06-22",
     "claim_amount": 249342.04,
     "filename": "claim_messy_099.pdf",
-    "risk_score": 0.5168,
-    "is_high_risk": false
+    "risk_score": 0.6318,
+    "is_high_risk": true
   },
   {
     "policy_number": "INS-69188",
@@ -1296,7 +1296,7 @@
     "filed_date": "2025-06-16",
     "claim_amount": 135779.77,
     "filename": "claim_messy_100.pdf",
-    "risk_score": 0.3304,
+    "risk_score": 0.3054,
     "is_high_risk": false
   },
   {
@@ -1309,7 +1309,7 @@
     "filed_date": "2026-10-21",
     "claim_amount": 23487.98,
     "filename": "claim_messy_101.pdf",
-    "risk_score": 0.1286,
+    "risk_score": 0.1267,
     "is_high_risk": false
   },
   {
@@ -1322,7 +1322,7 @@
     "filed_date": "2025-11-10",
     "claim_amount": 166270.57,
     "filename": "claim_messy_102.pdf",
-    "risk_score": 0.7477,
+    "risk_score": 0.7414,
     "is_high_risk": true
   },
   {
@@ -1335,7 +1335,7 @@
     "filed_date": "2026-05-11",
     "claim_amount": 195117.34,
     "filename": "claim_messy_103.pdf",
-    "risk_score": 0.3992,
+    "risk_score": 0.4118,
     "is_high_risk": false
   },
   {
@@ -1348,7 +1348,7 @@
     "filed_date": "2024-06-30",
     "claim_amount": 241749.68,
     "filename": "claim_messy_104.pdf",
-    "risk_score": 0.491,
+    "risk_score": 0.3971,
     "is_high_risk": false
   },
   {
@@ -1361,7 +1361,7 @@
     "filed_date": "2024-09-18",
     "claim_amount": 86726.35,
     "filename": "claim_messy_105.pdf",
-    "risk_score": 0.5702,
+    "risk_score": 0.5655,
     "is_high_risk": false
   },
   {
@@ -1374,7 +1374,7 @@
     "filed_date": "2025-07-18",
     "claim_amount": 215941.58,
     "filename": "claim_messy_106.pdf",
-    "risk_score": 0.4949,
+    "risk_score": 0.3268,
     "is_high_risk": false
   },
   {
@@ -1387,7 +1387,7 @@
     "filed_date": "2024-11-22",
     "claim_amount": 55926.17,
     "filename": "claim_messy_107.pdf",
-    "risk_score": 0.14,
+    "risk_score": 0.2054,
     "is_high_risk": false
   },
   {
@@ -1400,7 +1400,7 @@
     "filed_date": "2026-05-05",
     "claim_amount": 114380.6,
     "filename": "claim_messy_108.pdf",
-    "risk_score": 0.1827,
+    "risk_score": 0.3231,
     "is_high_risk": false
   },
   {
@@ -1413,7 +1413,7 @@
     "filed_date": "2025-10-01",
     "claim_amount": 55537.77,
     "filename": "claim_messy_109.pdf",
-    "risk_score": 0.2617,
+    "risk_score": 0.2146,
     "is_high_risk": false
   },
   {
@@ -1426,7 +1426,7 @@
     "filed_date": "2024-12-09",
     "claim_amount": 181178.62,
     "filename": "claim_messy_110.pdf",
-    "risk_score": 0.7632,
+    "risk_score": 0.6873,
     "is_high_risk": true
   },
   {
@@ -1439,7 +1439,7 @@
     "filed_date": "2026-06-12",
     "claim_amount": 89011.34,
     "filename": "claim_messy_111.pdf",
-    "risk_score": 0.3217,
+    "risk_score": 0.3147,
     "is_high_risk": false
   },
   {
@@ -1452,7 +1452,7 @@
     "filed_date": "2025-05-31",
     "claim_amount": 73812.75,
     "filename": "claim_messy_112.pdf",
-    "risk_score": 0.3491,
+    "risk_score": 0.3561,
     "is_high_risk": false
   },
   {
@@ -1465,7 +1465,7 @@
     "filed_date": "2025-09-12",
     "claim_amount": 172838.33,
     "filename": "claim_messy_113.pdf",
-    "risk_score": 0.3075,
+    "risk_score": 0.3793,
     "is_high_risk": false
   },
   {
@@ -1478,7 +1478,7 @@
     "filed_date": "2024-12-16",
     "claim_amount": 185993.33,
     "filename": "claim_messy_114.pdf",
-    "risk_score": 0.5887,
+    "risk_score": 0.4796,
     "is_high_risk": false
   },
   {
@@ -1491,7 +1491,7 @@
     "filed_date": "2025-08-17",
     "claim_amount": 220660.15,
     "filename": "claim_messy_115.pdf",
-    "risk_score": 0.5429,
+    "risk_score": 0.4408,
     "is_high_risk": false
   },
   {
@@ -1504,7 +1504,7 @@
     "filed_date": "2026-09-14",
     "claim_amount": 12855.53,
     "filename": "claim_messy_116.pdf",
-    "risk_score": 0.1662,
+    "risk_score": 0.0579,
     "is_high_risk": false
   },
   {
@@ -1517,7 +1517,7 @@
     "filed_date": "2024-09-08",
     "claim_amount": 214010.12,
     "filename": "claim_messy_117.pdf",
-    "risk_score": 0.324,
+    "risk_score": 0.4775,
     "is_high_risk": false
   },
   {
@@ -1530,7 +1530,7 @@
     "filed_date": "2024-10-09",
     "claim_amount": 209010.52,
     "filename": "claim_messy_118.pdf",
-    "risk_score": 0.9044,
+    "risk_score": 0.8001,
     "is_high_risk": true
   },
   {
@@ -1543,8 +1543,8 @@
     "filed_date": "2026-12-10",
     "claim_amount": 30280.62,
     "filename": "claim_messy_119.pdf",
-    "risk_score": 0.5332,
-    "is_high_risk": false
+    "risk_score": 0.6304,
+    "is_high_risk": true
   },
   {
     "policy_number": "CLM-57156",
@@ -1556,8 +1556,8 @@
     "filed_date": "2026-06-22",
     "claim_amount": 120068.8,
     "filename": "claim_messy_120.pdf",
-    "risk_score": 0.5892,
-    "is_high_risk": false
+    "risk_score": 0.7177,
+    "is_high_risk": true
   },
   {
     "policy_number": "CLM-30310",
@@ -1569,7 +1569,7 @@
     "filed_date": "2024-10-27",
     "claim_amount": 45648.2,
     "filename": "claim_messy_121.pdf",
-    "risk_score": 0.2482,
+    "risk_score": 0.0981,
     "is_high_risk": false
   },
   {
@@ -1582,7 +1582,7 @@
     "filed_date": "2024-09-14",
     "claim_amount": 245481.62,
     "filename": "claim_messy_122.pdf",
-    "risk_score": 0.4683,
+    "risk_score": 0.4831,
     "is_high_risk": false
   },
   {
@@ -1595,7 +1595,7 @@
     "filed_date": "2024-08-28",
     "claim_amount": 138047.29,
     "filename": "claim_messy_123.pdf",
-    "risk_score": 0.6721,
+    "risk_score": 0.7058,
     "is_high_risk": true
   },
   {
@@ -1608,7 +1608,7 @@
     "filed_date": "2026-02-24",
     "claim_amount": 10338.01,
     "filename": "claim_messy_124.pdf",
-    "risk_score": 0.1529,
+    "risk_score": 0.1361,
     "is_high_risk": false
   },
   {
@@ -1621,7 +1621,7 @@
     "filed_date": "2024-02-08",
     "claim_amount": 90549.89,
     "filename": "claim_messy_125.pdf",
-    "risk_score": 0.3072,
+    "risk_score": 0.3409,
     "is_high_risk": false
   },
   {
@@ -1634,7 +1634,7 @@
     "filed_date": "2025-04-10",
     "claim_amount": 67930.21,
     "filename": "claim_messy_126.pdf",
-    "risk_score": 0.6008,
+    "risk_score": 0.6199,
     "is_high_risk": true
   },
   {
@@ -1647,7 +1647,7 @@
     "filed_date": "2024-10-22",
     "claim_amount": null,
     "filename": "claim_messy_127.pdf",
-    "risk_score": 0.13,
+    "risk_score": 0.2304,
     "is_high_risk": false
   },
   {
@@ -1660,7 +1660,7 @@
     "filed_date": "2025-06-03",
     "claim_amount": 61689.22,
     "filename": "claim_messy_128.pdf",
-    "risk_score": 0.3326,
+    "risk_score": 0.3891,
     "is_high_risk": false
   },
   {
@@ -1673,7 +1673,7 @@
     "filed_date": "2024-12-30",
     "claim_amount": 248207.56,
     "filename": "claim_messy_129.pdf",
-    "risk_score": 0.8504,
+    "risk_score": 0.8372,
     "is_high_risk": true
   },
   {
@@ -1686,8 +1686,8 @@
     "filed_date": "2026-09-03",
     "claim_amount": 106765.92,
     "filename": "claim_messy_130.pdf",
-    "risk_score": 0.5594,
-    "is_high_risk": false
+    "risk_score": 0.6526,
+    "is_high_risk": true
   },
   {
     "policy_number": "CLM-33254",
@@ -1699,7 +1699,7 @@
     "filed_date": "2025-06-24",
     "claim_amount": 123761.67,
     "filename": "claim_messy_131.pdf",
-    "risk_score": 0.337,
+    "risk_score": 0.269,
     "is_high_risk": false
   },
   {
@@ -1712,7 +1712,7 @@
     "filed_date": "2025-06-18",
     "claim_amount": 61943.03,
     "filename": "claim_messy_132.pdf",
-    "risk_score": 0.4277,
+    "risk_score": 0.4173,
     "is_high_risk": false
   },
   {
@@ -1725,7 +1725,7 @@
     "filed_date": "2024-09-28",
     "claim_amount": 65021.02,
     "filename": "claim_messy_133.pdf",
-    "risk_score": 0.3608,
+    "risk_score": 0.2309,
     "is_high_risk": false
   },
   {
@@ -1738,7 +1738,7 @@
     "filed_date": "2024-12-25",
     "claim_amount": 36831.85,
     "filename": "claim_messy_134.pdf",
-    "risk_score": 0.3498,
+    "risk_score": 0.3564,
     "is_high_risk": false
   },
   {
@@ -1751,7 +1751,7 @@
     "filed_date": "2024-05-27",
     "claim_amount": 73367.25,
     "filename": "claim_messy_135.pdf",
-    "risk_score": 0.2155,
+    "risk_score": 0.1319,
     "is_high_risk": false
   },
   {
@@ -1764,7 +1764,7 @@
     "filed_date": "2026-03-19",
     "claim_amount": 1472.19,
     "filename": "claim_messy_136.pdf",
-    "risk_score": 0.4385,
+    "risk_score": 0.3779,
     "is_high_risk": false
   },
   {
@@ -1777,7 +1777,7 @@
     "filed_date": "2025-07-12",
     "claim_amount": 188169.25,
     "filename": "claim_messy_137.pdf",
-    "risk_score": 0.4634,
+    "risk_score": 0.3299,
     "is_high_risk": false
   },
   {
@@ -1790,7 +1790,7 @@
     "filed_date": "2024-05-21",
     "claim_amount": 191078.36,
     "filename": "claim_messy_138.pdf",
-    "risk_score": 0.778,
+    "risk_score": 0.8005,
     "is_high_risk": true
   },
   {
@@ -1803,7 +1803,7 @@
     "filed_date": "2025-05-03",
     "claim_amount": 31479.16,
     "filename": "claim_messy_139.pdf",
-    "risk_score": 0.1873,
+    "risk_score": 0.0453,
     "is_high_risk": false
   },
   {
@@ -1816,7 +1816,7 @@
     "filed_date": "2025-11-18",
     "claim_amount": 41768.0,
     "filename": "claim_messy_140.pdf",
-    "risk_score": 0.4917,
+    "risk_score": 0.3909,
     "is_high_risk": false
   },
   {
@@ -1829,7 +1829,7 @@
     "filed_date": "2026-02-14",
     "claim_amount": 238648.66,
     "filename": "claim_messy_141.pdf",
-    "risk_score": 0.394,
+    "risk_score": 0.4125,
     "is_high_risk": false
   },
   {
@@ -1842,7 +1842,7 @@
     "filed_date": "2026-05-12",
     "claim_amount": 51465.6,
     "filename": "claim_messy_142.pdf",
-    "risk_score": 0.2589,
+    "risk_score": 0.1396,
     "is_high_risk": false
   },
   {
@@ -1855,7 +1855,7 @@
     "filed_date": "2025-01-30",
     "claim_amount": 171215.51,
     "filename": "claim_messy_143.pdf",
-    "risk_score": 0.7824,
+    "risk_score": 0.8151,
     "is_high_risk": true
   },
   {
@@ -1868,7 +1868,7 @@
     "filed_date": "2025-09-15",
     "claim_amount": 90701.09,
     "filename": "claim_messy_144.pdf",
-    "risk_score": 0.2615,
+    "risk_score": 0.2636,
     "is_high_risk": false
   },
   {
@@ -1881,7 +1881,7 @@
     "filed_date": "2025-06-05",
     "claim_amount": 32696.22,
     "filename": "claim_messy_145.pdf",
-    "risk_score": 0.1672,
+    "risk_score": 0.1903,
     "is_high_risk": false
   },
   {
@@ -1894,7 +1894,7 @@
     "filed_date": "2024-07-17",
     "claim_amount": 41080.55,
     "filename": "claim_messy_146.pdf",
-    "risk_score": 0.4708,
+    "risk_score": 0.4825,
     "is_high_risk": false
   },
   {
@@ -1907,7 +1907,7 @@
     "filed_date": "2025-10-30",
     "claim_amount": 85447.55,
     "filename": "claim_messy_147.pdf",
-    "risk_score": 0.4728,
+    "risk_score": 0.4172,
     "is_high_risk": false
   },
   {
@@ -1920,7 +1920,7 @@
     "filed_date": "2026-06-08",
     "claim_amount": 73465.91,
     "filename": "claim_messy_148.pdf",
-    "risk_score": 0.4692,
+    "risk_score": 0.4931,
     "is_high_risk": false
   },
   {
@@ -1933,7 +1933,7 @@
     "filed_date": "2024-04-29",
     "claim_amount": 184467.49,
     "filename": "claim_messy_149.pdf",
-    "risk_score": 0.8311,
+    "risk_score": 0.8014,
     "is_high_risk": true
   },
   {
@@ -1946,7 +1946,7 @@
     "filed_date": "2025-09-06",
     "claim_amount": 35991.72,
     "filename": "claim_messy_150.pdf",
-    "risk_score": 0.5099,
+    "risk_score": 0.4746,
     "is_high_risk": false
   },
   {
@@ -1959,7 +1959,7 @@
     "filed_date": "2026-07-15",
     "claim_amount": 246871.37,
     "filename": "claim_messy_151.pdf",
-    "risk_score": 0.5154,
+    "risk_score": 0.3741,
     "is_high_risk": false
   },
   {
@@ -1972,7 +1972,7 @@
     "filed_date": "2025-12-15",
     "claim_amount": 162702.18,
     "filename": "claim_messy_152.pdf",
-    "risk_score": 0.438,
+    "risk_score": 0.5108,
     "is_high_risk": false
   },
   {
@@ -1985,7 +1985,7 @@
     "filed_date": "2025-08-14",
     "claim_amount": 49988.01,
     "filename": "claim_messy_153.pdf",
-    "risk_score": 0.1951,
+    "risk_score": 0.2278,
     "is_high_risk": false
   },
   {
@@ -1998,7 +1998,7 @@
     "filed_date": "2025-12-02",
     "claim_amount": 18524.4,
     "filename": "claim_messy_154.pdf",
-    "risk_score": 0.3878,
+    "risk_score": 0.5011,
     "is_high_risk": false
   },
   {
@@ -2011,7 +2011,7 @@
     "filed_date": "2026-11-23",
     "claim_amount": 175015.95,
     "filename": "claim_messy_155.pdf",
-    "risk_score": 0.5513,
+    "risk_score": 0.5936,
     "is_high_risk": false
   },
   {
@@ -2024,8 +2024,8 @@
     "filed_date": "2024-09-20",
     "claim_amount": 43085.01,
     "filename": "claim_messy_156.pdf",
-    "risk_score": 0.6318,
-    "is_high_risk": true
+    "risk_score": 0.4532,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-19417",
@@ -2037,7 +2037,7 @@
     "filed_date": "2026-07-03",
     "claim_amount": 92042.06,
     "filename": "claim_messy_157.pdf",
-    "risk_score": 0.3464,
+    "risk_score": 0.3302,
     "is_high_risk": false
   },
   {
@@ -2050,7 +2050,7 @@
     "filed_date": "2025-06-24",
     "claim_amount": 116680.42,
     "filename": "claim_messy_158.pdf",
-    "risk_score": 0.4187,
+    "risk_score": 0.4037,
     "is_high_risk": false
   },
   {
@@ -2063,7 +2063,7 @@
     "filed_date": "2027-01-10",
     "claim_amount": 86006.95,
     "filename": "claim_messy_159.pdf",
-    "risk_score": 0.2915,
+    "risk_score": 0.2319,
     "is_high_risk": false
   },
   {
@@ -2076,7 +2076,7 @@
     "filed_date": "2026-09-07",
     "claim_amount": 29816.63,
     "filename": "claim_messy_160.pdf",
-    "risk_score": 0.0884,
+    "risk_score": 0.0971,
     "is_high_risk": false
   },
   {
@@ -2089,7 +2089,7 @@
     "filed_date": "2024-08-03",
     "claim_amount": 111165.2,
     "filename": "claim_messy_161.pdf",
-    "risk_score": 0.439,
+    "risk_score": 0.582,
     "is_high_risk": false
   },
   {
@@ -2102,7 +2102,7 @@
     "filed_date": "2026-09-17",
     "claim_amount": 86437.8,
     "filename": "claim_messy_162.pdf",
-    "risk_score": 0.3143,
+    "risk_score": 0.2219,
     "is_high_risk": false
   },
   {
@@ -2115,7 +2115,7 @@
     "filed_date": "2026-08-17",
     "claim_amount": 114791.38,
     "filename": "claim_messy_163.pdf",
-    "risk_score": 0.1883,
+    "risk_score": 0.2965,
     "is_high_risk": false
   },
   {
@@ -2128,7 +2128,7 @@
     "filed_date": "2026-04-13",
     "claim_amount": 155183.64,
     "filename": "claim_messy_164.pdf",
-    "risk_score": 0.6461,
+    "risk_score": 0.7318,
     "is_high_risk": true
   },
   {
@@ -2141,7 +2141,7 @@
     "filed_date": "2024-02-25",
     "claim_amount": 38055.64,
     "filename": "claim_messy_165.pdf",
-    "risk_score": 0.3236,
+    "risk_score": 0.2832,
     "is_high_risk": false
   },
   {
@@ -2154,7 +2154,7 @@
     "filed_date": "2024-05-31",
     "claim_amount": 50094.41,
     "filename": "claim_messy_166.pdf",
-    "risk_score": 0.2401,
+    "risk_score": 0.3007,
     "is_high_risk": false
   },
   {
@@ -2167,7 +2167,7 @@
     "filed_date": "2025-03-03",
     "claim_amount": 72309.86,
     "filename": "claim_messy_167.pdf",
-    "risk_score": 0.1233,
+    "risk_score": 0.2842,
     "is_high_risk": false
   },
   {
@@ -2180,8 +2180,8 @@
     "filed_date": "2024-07-19",
     "claim_amount": 242470.91,
     "filename": "claim_messy_168.pdf",
-    "risk_score": 0.6494,
-    "is_high_risk": true
+    "risk_score": 0.4663,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-92870",
@@ -2193,7 +2193,7 @@
     "filed_date": "2026-08-19",
     "claim_amount": 154592.32,
     "filename": "claim_messy_169.pdf",
-    "risk_score": 0.7243,
+    "risk_score": 0.6119,
     "is_high_risk": true
   },
   {
@@ -2206,7 +2206,7 @@
     "filed_date": "2024-08-18",
     "claim_amount": null,
     "filename": "claim_messy_170.pdf",
-    "risk_score": 0.0929,
+    "risk_score": 0.1204,
     "is_high_risk": false
   },
   {
@@ -2219,8 +2219,8 @@
     "filed_date": "2025-01-02",
     "claim_amount": 146493.15,
     "filename": "claim_messy_171.pdf",
-    "risk_score": 0.6355,
-    "is_high_risk": true
+    "risk_score": 0.5775,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-75380",
@@ -2232,7 +2232,7 @@
     "filed_date": "2025-01-15",
     "claim_amount": 114228.35,
     "filename": "claim_messy_172.pdf",
-    "risk_score": 0.4802,
+    "risk_score": 0.4997,
     "is_high_risk": false
   },
   {
@@ -2245,7 +2245,7 @@
     "filed_date": "2025-02-01",
     "claim_amount": 5469.86,
     "filename": "claim_messy_173.pdf",
-    "risk_score": 0.1717,
+    "risk_score": 0.0413,
     "is_high_risk": false
   },
   {
@@ -2258,7 +2258,7 @@
     "filed_date": "2025-04-19",
     "claim_amount": 1098.89,
     "filename": "claim_messy_174.pdf",
-    "risk_score": 0.1286,
+    "risk_score": 0.1531,
     "is_high_risk": false
   },
   {
@@ -2271,7 +2271,7 @@
     "filed_date": "2026-01-22",
     "claim_amount": 122731.88,
     "filename": "claim_messy_175.pdf",
-    "risk_score": 0.6617,
+    "risk_score": 0.7042,
     "is_high_risk": true
   },
   {
@@ -2284,8 +2284,8 @@
     "filed_date": "2024-07-22",
     "claim_amount": 141119.81,
     "filename": "claim_messy_176.pdf",
-    "risk_score": 0.5319,
-    "is_high_risk": false
+    "risk_score": 0.6222,
+    "is_high_risk": true
   },
   {
     "policy_number": "INS-50651",
@@ -2297,7 +2297,7 @@
     "filed_date": "2025-11-27",
     "claim_amount": 90427.87,
     "filename": "claim_messy_177.pdf",
-    "risk_score": 0.6324,
+    "risk_score": 0.6843,
     "is_high_risk": true
   },
   {
@@ -2310,7 +2310,7 @@
     "filed_date": "2026-05-27",
     "claim_amount": 39023.57,
     "filename": "claim_messy_178.pdf",
-    "risk_score": 0.2839,
+    "risk_score": 0.3019,
     "is_high_risk": false
   },
   {
@@ -2323,8 +2323,8 @@
     "filed_date": "2025-02-15",
     "claim_amount": 91226.23,
     "filename": "claim_messy_179.pdf",
-    "risk_score": 0.6316,
-    "is_high_risk": true
+    "risk_score": 0.5589,
+    "is_high_risk": false
   },
   {
     "policy_number": null,
@@ -2336,7 +2336,7 @@
     "filed_date": "2026-05-28",
     "claim_amount": 215221.86,
     "filename": "claim_messy_180.pdf",
-    "risk_score": 0.5913,
+    "risk_score": 0.4936,
     "is_high_risk": false
   },
   {
@@ -2349,7 +2349,7 @@
     "filed_date": "2025-10-21",
     "claim_amount": 13484.64,
     "filename": "claim_messy_181.pdf",
-    "risk_score": 0.2964,
+    "risk_score": 0.3,
     "is_high_risk": false
   },
   {
@@ -2362,7 +2362,7 @@
     "filed_date": "2026-04-24",
     "claim_amount": null,
     "filename": "claim_messy_182.pdf",
-    "risk_score": 0.5362,
+    "risk_score": 0.5638,
     "is_high_risk": false
   },
   {
@@ -2375,7 +2375,7 @@
     "filed_date": "2025-10-29",
     "claim_amount": 6478.25,
     "filename": "claim_messy_183.pdf",
-    "risk_score": 0.1562,
+    "risk_score": 0.0783,
     "is_high_risk": false
   },
   {
@@ -2388,8 +2388,8 @@
     "filed_date": "2024-07-12",
     "claim_amount": 193375.38,
     "filename": "claim_messy_184.pdf",
-    "risk_score": 0.451,
-    "is_high_risk": false
+    "risk_score": 0.6133,
+    "is_high_risk": true
   },
   {
     "policy_number": "CLM-70066",
@@ -2401,7 +2401,7 @@
     "filed_date": "2024-11-09",
     "claim_amount": 9983.33,
     "filename": "claim_messy_185.pdf",
-    "risk_score": 0.1968,
+    "risk_score": 0.0759,
     "is_high_risk": false
   },
   {
@@ -2414,7 +2414,7 @@
     "filed_date": "2025-05-08",
     "claim_amount": 166882.46,
     "filename": "claim_messy_186.pdf",
-    "risk_score": 0.465,
+    "risk_score": 0.5443,
     "is_high_risk": false
   },
   {
@@ -2427,7 +2427,7 @@
     "filed_date": "2026-03-14",
     "claim_amount": 72135.34,
     "filename": "claim_messy_187.pdf",
-    "risk_score": 0.2537,
+    "risk_score": 0.2026,
     "is_high_risk": false
   },
   {
@@ -2440,7 +2440,7 @@
     "filed_date": "2025-12-27",
     "claim_amount": 239281.71,
     "filename": "claim_messy_188.pdf",
-    "risk_score": 0.5165,
+    "risk_score": 0.366,
     "is_high_risk": false
   },
   {
@@ -2453,7 +2453,7 @@
     "filed_date": "2025-01-08",
     "claim_amount": 221847.5,
     "filename": "claim_messy_189.pdf",
-    "risk_score": 0.4109,
+    "risk_score": 0.4258,
     "is_high_risk": false
   },
   {
@@ -2466,7 +2466,7 @@
     "filed_date": "2025-01-27",
     "claim_amount": 203690.89,
     "filename": "claim_messy_190.pdf",
-    "risk_score": 0.3918,
+    "risk_score": 0.4822,
     "is_high_risk": false
   },
   {
@@ -2479,7 +2479,7 @@
     "filed_date": "2025-12-19",
     "claim_amount": 220694.81,
     "filename": "claim_messy_191.pdf",
-    "risk_score": 0.6067,
+    "risk_score": 0.6324,
     "is_high_risk": true
   },
   {
@@ -2492,7 +2492,7 @@
     "filed_date": "2025-12-02",
     "claim_amount": 93231.87,
     "filename": "claim_messy_192.pdf",
-    "risk_score": 0.3997,
+    "risk_score": 0.4814,
     "is_high_risk": false
   },
   {
@@ -2505,7 +2505,7 @@
     "filed_date": "2025-04-30",
     "claim_amount": 213729.49,
     "filename": "claim_messy_193.pdf",
-    "risk_score": 0.4774,
+    "risk_score": 0.4758,
     "is_high_risk": false
   },
   {
@@ -2518,7 +2518,7 @@
     "filed_date": "2026-07-10",
     "claim_amount": 97999.27,
     "filename": "claim_messy_194.pdf",
-    "risk_score": 0.5453,
+    "risk_score": 0.5931,
     "is_high_risk": false
   },
   {
@@ -2531,7 +2531,7 @@
     "filed_date": "2026-09-24",
     "claim_amount": 161863.66,
     "filename": "claim_messy_195.pdf",
-    "risk_score": 0.4859,
+    "risk_score": 0.4765,
     "is_high_risk": false
   },
   {
@@ -2544,7 +2544,7 @@
     "filed_date": "2026-07-03",
     "claim_amount": 23726.64,
     "filename": "claim_messy_196.pdf",
-    "risk_score": 0.341,
+    "risk_score": 0.3866,
     "is_high_risk": false
   },
   {
@@ -2557,7 +2557,7 @@
     "filed_date": "2024-12-10",
     "claim_amount": 53123.01,
     "filename": "claim_messy_197.pdf",
-    "risk_score": 0.4569,
+    "risk_score": 0.5858,
     "is_high_risk": false
   },
   {
@@ -2570,7 +2570,7 @@
     "filed_date": "2024-10-31",
     "claim_amount": 198012.64,
     "filename": "claim_messy_198.pdf",
-    "risk_score": 0.7382,
+    "risk_score": 0.7246,
     "is_high_risk": true
   },
   {
@@ -2583,7 +2583,7 @@
     "filed_date": "2027-02-02",
     "claim_amount": 92916.86,
     "filename": "claim_messy_199.pdf",
-    "risk_score": 0.3054,
+    "risk_score": 0.2254,
     "is_high_risk": false
   },
   {
@@ -2596,7 +2596,7 @@
     "filed_date": "2024-09-11",
     "claim_amount": 110472.93,
     "filename": "claim_messy_200.pdf",
-    "risk_score": 0.3312,
+    "risk_score": 0.291,
     "is_high_risk": false
   }
 ]
