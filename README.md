@@ -1,18 +1,68 @@
 # Insurance Claim Document Intelligence
 
-A system that reads insurance claim documents, extracts structured fields using LLMs, validates them, and retrieves relevant policy clauses — reducing manual review time.
+Insurance claims come in as PDFs. Someone has to read each one, pull out the policy number, the claimant's name, the diagnosis, the amount, and a dozen other fields, then type it all into a system. It's slow, it's boring, and it doesn't scale.
 
-## What it does
+This is my attempt at automating that. It reads a claim PDF, pulls out the structured fields using an LLM, and — this is the part I cared most about — it measures how reliably it actually does that.
 
-- Ingests insurance claim documents (PDFs / images)
-- Extracts structured fields using an LLM with schema validation
-- Flags high-risk claims using a classical ML classifier
-- Retrieves relevant policy clauses via hybrid retrieval
-- Generates a grounded reviewer summary with citations
+Spoiler: it works. Almost always. And the way it fails taught me more than the times it succeeded.
 
-## Status
+---
 
-Work in progress — being built step by step.
+## What it actually does
+
+- Reads claim PDFs and extracts text from them
+- Sends the text to an LLM with a strict schema — so the output is always valid JSON
+- Validates everything with Pydantic and retries automatically if the model gets sloppy
+- Generates its own test data — 200 clean documents and 200 messy ones — with ground-truth labels for every field
+- Scores itself field by field. Not vibes. Actual numbers.
+
+---
+
+## The part I'm actually proud of
+
+Anyone can get an LLM to pull fields out of a nicely formatted document. That's not the hard problem.
+
+The hard problem is: **what happens when the document is a mess?**
+
+So I built two test sets:
+
+- **Clean** — same layout every time. Consistent labels. No noise.
+- **Messy** — shuffled field order, labels worded differently each time, one field missing in about 20% of documents, and random junk text in the headers and footers.
+
+Same pipeline, same prompt, same model. Two very different results.
+
+---
+
+## The results
+
+| | Fields correct | Accuracy |
+|---|---|---|
+| **Clean** (200 docs) | 1400 / 1400 | **100%** |
+| **Messy** (200 docs) | 1340 / 1400 | **95.7%** |
+
+Clean was expected. Messy is where things got interesting.
+
+---
+
+## What broke, and why I left it in
+
+60 fields failed across the messy set. Almost all of them followed the same pattern:
+
+The document had a property or auto value in the "diagnosis" field — things like `"Water damage - kitchen"` or `"Lost baggage"` — and the label happened to be worded `"Medical Diagnosis"` instead of just `"Diagnosis"`.
+
+The model returned `null`. It refused to extract the value.
+
+And honestly? It was right to. If the field says "Medical Diagnosis" and the value is "Water damage - kitchen", a careful reader would also say *something's off here*. The model did exactly what a sensible person would do.
+
+The bug was on my end — in the label variants my test generator was producing. I fixed it. But I kept the original results in place, because a 95.7% with a story is worth more than a cherry-picked 100%.
+
+---
+
+## Stack
+
+Python 3.11, Groq for the LLM calls, Pydantic for schema validation, pypdf for text extraction, reportlab for generating the test documents. XGBoost and SHAP coming in next for the risk classifier.
+
+---
 
 ## Setup
 
@@ -20,3 +70,71 @@ Work in progress — being built step by step.
 py -3.11 -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
+```
+
+Then create a `.env` file in the project root:
+
+```
+GROQ_API_KEY=your_key_here
+```
+
+Free key at https://console.groq.com — no credit card needed.
+
+---
+
+## What the code looks like
+
+```
+src/                    all the importable logic
+├── config.py           model name in one place
+├── schemas.py          the Pydantic schema
+├── extract.py          LLM extraction + retry loop
+├── ocr.py              PDF → text
+├── doc_generator.py    generates the clean test set
+└── doc_generator_messy.py   generates the messy one
+
+scripts/                runnable tools
+├── generate_claims.py
+├── generate_claims_messy.py
+├── add_filed_date.py
+├── evaluate.py
+└── test_*.py
+
+data/samples/           the test sets + ground truth
+```
+
+---
+
+## How to run it
+
+```bash
+python -m scripts.generate_claims          # build the clean test set
+python -m scripts.generate_claims_messy    # build the messy one
+python -m scripts.add_filed_date           # add a metadata field for the classifier
+python -m scripts.evaluate                 # score both sets
+```
+
+The evaluation script saves progress after every document. If it crashes, or if you hit Groq's free-tier rate limit, just run it again — it picks up where it stopped.
+
+---
+
+## What's coming
+
+- A risk classifier — XGBoost + SHAP — so high-risk claims get flagged for a human to look at
+- Policy clause retrieval — pull the exact clause a claim references
+- A FastAPI endpoint so you can send a PDF and get structured output back
+- A small frontend to make it demoable
+
+---
+
+## A few honest notes
+
+- The test documents are synthetic, generated by code in this repo. No real claim data was used.
+- I left the messy-set failure in the results on purpose. It's more useful than a clean sweep.
+- Free-tier LLM rate limits are real. The evaluation script handles them with retry and checkpointing.
+- The `filed_date` field exists in the ground truth but doesn't appear on the PDFs — it's metadata for the classifier, not something the extractor should pull.
+
+---
+
+**Saksham Swami**
+[github.com/Sakshamswami30](https://github.com/Sakshamswami30) · [Insurance-Claim-Intel](https://github.com/Sakshamswami30/Insurance-Claim-Intel)
