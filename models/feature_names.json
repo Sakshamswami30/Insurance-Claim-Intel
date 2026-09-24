@@ -1,0 +1,16 @@
+[
+  "claim_amount",
+  "amount_missing",
+  "is_property",
+  "is_auto",
+  "is_medical",
+  "is_travel",
+  "days_gap",
+  "gap_missing",
+  "provider_risk",
+  "policy_number_missing",
+  "claimant_name_missing",
+  "diagnosis_missing",
+  "provider_name_missing",
+  "incident_date_missing"
+]

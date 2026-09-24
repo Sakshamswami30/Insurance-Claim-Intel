@@ -8,7 +8,9 @@
     "incident_date": "2026-02-05",
     "filed_date": "2026-02-21",
     "claim_amount": 164843.52,
-    "filename": "claim_001.pdf"
+    "filename": "claim_001.pdf",
+    "risk_score": 0.8244,
+    "is_high_risk": true
   },
   {
     "policy_number": "INS-49928",
@@ -19,7 +21,9 @@
     "incident_date": "2024-06-01",
     "filed_date": "2024-07-28",
     "claim_amount": 99691.39,
-    "filename": "claim_002.pdf"
+    "filename": "claim_002.pdf",
+    "risk_score": 0.1078,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-76877",
@@ -30,7 +34,9 @@
     "incident_date": "2024-04-26",
     "filed_date": "2024-05-03",
     "claim_amount": 179777.44,
-    "filename": "claim_003.pdf"
+    "filename": "claim_003.pdf",
+    "risk_score": 0.401,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-83448",
@@ -41,7 +47,9 @@
     "incident_date": "2026-11-05",
     "filed_date": "2026-12-03",
     "claim_amount": 112536.65,
-    "filename": "claim_004.pdf"
+    "filename": "claim_004.pdf",
+    "risk_score": 0.5312,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-13762",
@@ -52,7 +60,9 @@
     "incident_date": "2026-05-11",
     "filed_date": "2026-07-02",
     "claim_amount": 84504.59,
-    "filename": "claim_005.pdf"
+    "filename": "claim_005.pdf",
+    "risk_score": 0.2123,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-57990",
@@ -63,7 +73,9 @@
     "incident_date": "2026-12-26",
     "filed_date": "2027-02-18",
     "claim_amount": 61317.32,
-    "filename": "claim_006.pdf"
+    "filename": "claim_006.pdf",
+    "risk_score": 0.2183,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-78797",
@@ -74,7 +86,9 @@
     "incident_date": "2026-08-04",
     "filed_date": "2026-08-05",
     "claim_amount": 206779.2,
-    "filename": "claim_007.pdf"
+    "filename": "claim_007.pdf",
+    "risk_score": 0.8068,
+    "is_high_risk": true
   },
   {
     "policy_number": "CLM-77992",
@@ -85,7 +99,9 @@
     "incident_date": "2025-12-26",
     "filed_date": "2026-01-16",
     "claim_amount": 117520.06,
-    "filename": "claim_008.pdf"
+    "filename": "claim_008.pdf",
+    "risk_score": 0.6503,
+    "is_high_risk": true
   },
   {
     "policy_number": "CLM-51646",
@@ -96,7 +112,9 @@
     "incident_date": "2026-11-25",
     "filed_date": "2026-12-14",
     "claim_amount": 49198.49,
-    "filename": "claim_009.pdf"
+    "filename": "claim_009.pdf",
+    "risk_score": 0.2554,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-28138",
@@ -107,7 +125,9 @@
     "incident_date": "2026-01-05",
     "filed_date": "2026-01-14",
     "claim_amount": 132851.35,
-    "filename": "claim_010.pdf"
+    "filename": "claim_010.pdf",
+    "risk_score": 0.3712,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-90187",
@@ -118,7 +138,9 @@
     "incident_date": "2024-09-08",
     "filed_date": "2024-09-13",
     "claim_amount": 119734.52,
-    "filename": "claim_011.pdf"
+    "filename": "claim_011.pdf",
+    "risk_score": 0.3452,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-87684",
@@ -129,7 +151,9 @@
     "incident_date": "2025-04-02",
     "filed_date": "2025-05-14",
     "claim_amount": 154027.8,
-    "filename": "claim_012.pdf"
+    "filename": "claim_012.pdf",
+    "risk_score": 0.2647,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-55832",
@@ -140,7 +164,9 @@
     "incident_date": "2026-09-04",
     "filed_date": "2026-09-13",
     "claim_amount": 174890.48,
-    "filename": "claim_013.pdf"
+    "filename": "claim_013.pdf",
+    "risk_score": 0.4915,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-19458",
@@ -151,7 +177,9 @@
     "incident_date": "2025-11-21",
     "filed_date": "2025-12-03",
     "claim_amount": 76869.6,
-    "filename": "claim_014.pdf"
+    "filename": "claim_014.pdf",
+    "risk_score": 0.7395,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-13217",
@@ -162,7 +190,9 @@
     "incident_date": "2025-09-12",
     "filed_date": "2025-10-03",
     "claim_amount": 181504.89,
-    "filename": "claim_015.pdf"
+    "filename": "claim_015.pdf",
+    "risk_score": 0.7982,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-61076",
@@ -173,7 +203,9 @@
     "incident_date": "2025-03-10",
     "filed_date": "2025-04-26",
     "claim_amount": 62572.54,
-    "filename": "claim_016.pdf"
+    "filename": "claim_016.pdf",
+    "risk_score": 0.5013,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-10930",
@@ -184,7 +216,9 @@
     "incident_date": "2026-02-18",
     "filed_date": "2026-04-13",
     "claim_amount": 232247.36,
-    "filename": "claim_017.pdf"
+    "filename": "claim_017.pdf",
+    "risk_score": 0.3666,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-77682",
@@ -195,7 +229,9 @@
     "incident_date": "2025-12-06",
     "filed_date": "2026-01-06",
     "claim_amount": 180228.57,
-    "filename": "claim_018.pdf"
+    "filename": "claim_018.pdf",
+    "risk_score": 0.4687,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-49651",
@@ -206,7 +242,9 @@
     "incident_date": "2024-09-27",
     "filed_date": "2024-11-08",
     "claim_amount": 2077.54,
-    "filename": "claim_019.pdf"
+    "filename": "claim_019.pdf",
+    "risk_score": 0.188,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-56434",
@@ -217,7 +255,9 @@
     "incident_date": "2026-09-25",
     "filed_date": "2026-10-20",
     "claim_amount": 140814.85,
-    "filename": "claim_020.pdf"
+    "filename": "claim_020.pdf",
+    "risk_score": 0.7384,
+    "is_high_risk": true
   },
   {
     "policy_number": "INS-66408",
@@ -228,7 +268,9 @@
     "incident_date": "2026-02-08",
     "filed_date": "2026-04-09",
     "claim_amount": 128430.18,
-    "filename": "claim_021.pdf"
+    "filename": "claim_021.pdf",
+    "risk_score": 0.2573,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-80733",
@@ -239,7 +281,9 @@
     "incident_date": "2026-01-22",
     "filed_date": "2026-03-03",
     "claim_amount": 231155.09,
-    "filename": "claim_022.pdf"
+    "filename": "claim_022.pdf",
+    "risk_score": 0.8148,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-85556",
@@ -250,7 +294,9 @@
     "incident_date": "2025-04-28",
     "filed_date": "2025-05-26",
     "claim_amount": 55836.77,
-    "filename": "claim_023.pdf"
+    "filename": "claim_023.pdf",
+    "risk_score": 0.4965,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-21026",
@@ -261,7 +307,9 @@
     "incident_date": "2024-08-15",
     "filed_date": "2024-09-14",
     "claim_amount": 222203.03,
-    "filename": "claim_024.pdf"
+    "filename": "claim_024.pdf",
+    "risk_score": 0.5613,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-84129",
@@ -272,7 +320,9 @@
     "incident_date": "2024-03-09",
     "filed_date": "2024-04-10",
     "claim_amount": 101662.43,
-    "filename": "claim_025.pdf"
+    "filename": "claim_025.pdf",
+    "risk_score": 0.6431,
+    "is_high_risk": true
   },
   {
     "policy_number": "CLM-11830",
@@ -283,7 +333,9 @@
     "incident_date": "2024-02-19",
     "filed_date": "2024-04-11",
     "claim_amount": 65394.99,
-    "filename": "claim_026.pdf"
+    "filename": "claim_026.pdf",
+    "risk_score": 0.4954,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-64955",
@@ -294,7 +346,9 @@
     "incident_date": "2026-03-10",
     "filed_date": "2026-04-06",
     "claim_amount": 37662.24,
-    "filename": "claim_027.pdf"
+    "filename": "claim_027.pdf",
+    "risk_score": 0.4812,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-78882",
@@ -305,7 +359,9 @@
     "incident_date": "2025-06-10",
     "filed_date": "2025-06-16",
     "claim_amount": 155923.93,
-    "filename": "claim_028.pdf"
+    "filename": "claim_028.pdf",
+    "risk_score": 0.4911,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-89733",
@@ -316,7 +372,9 @@
     "incident_date": "2024-01-10",
     "filed_date": "2024-02-19",
     "claim_amount": 185805.96,
-    "filename": "claim_029.pdf"
+    "filename": "claim_029.pdf",
+    "risk_score": 0.7581,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-22986",
@@ -327,7 +385,9 @@
     "incident_date": "2025-01-19",
     "filed_date": "2025-02-04",
     "claim_amount": 122197.51,
-    "filename": "claim_030.pdf"
+    "filename": "claim_030.pdf",
+    "risk_score": 0.7445,
+    "is_high_risk": true
   },
   {
     "policy_number": "INS-96600",
@@ -338,7 +398,9 @@
     "incident_date": "2026-05-15",
     "filed_date": "2026-06-10",
     "claim_amount": 186985.96,
-    "filename": "claim_031.pdf"
+    "filename": "claim_031.pdf",
+    "risk_score": 0.4875,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-71022",
@@ -349,7 +411,9 @@
     "incident_date": "2024-05-08",
     "filed_date": "2024-06-01",
     "claim_amount": 238851.12,
-    "filename": "claim_032.pdf"
+    "filename": "claim_032.pdf",
+    "risk_score": 0.8456,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-14607",
@@ -360,7 +424,9 @@
     "incident_date": "2026-06-21",
     "filed_date": "2026-08-12",
     "claim_amount": 121180.93,
-    "filename": "claim_033.pdf"
+    "filename": "claim_033.pdf",
+    "risk_score": 0.5055,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-48808",
@@ -371,7 +437,9 @@
     "incident_date": "2024-04-15",
     "filed_date": "2024-05-15",
     "claim_amount": 179491.18,
-    "filename": "claim_034.pdf"
+    "filename": "claim_034.pdf",
+    "risk_score": 0.4094,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-60881",
@@ -382,7 +450,9 @@
     "incident_date": "2024-09-28",
     "filed_date": "2024-11-27",
     "claim_amount": 106615.83,
-    "filename": "claim_035.pdf"
+    "filename": "claim_035.pdf",
+    "risk_score": 0.4659,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-66883",
@@ -393,7 +463,9 @@
     "incident_date": "2025-01-05",
     "filed_date": "2025-02-08",
     "claim_amount": 43175.78,
-    "filename": "claim_036.pdf"
+    "filename": "claim_036.pdf",
+    "risk_score": 0.586,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-60911",
@@ -404,7 +476,9 @@
     "incident_date": "2026-12-28",
     "filed_date": "2027-02-07",
     "claim_amount": 38197.76,
-    "filename": "claim_037.pdf"
+    "filename": "claim_037.pdf",
+    "risk_score": 0.1675,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-17548",
@@ -415,7 +489,9 @@
     "incident_date": "2026-10-15",
     "filed_date": "2026-12-05",
     "claim_amount": 150602.12,
-    "filename": "claim_038.pdf"
+    "filename": "claim_038.pdf",
+    "risk_score": 0.5905,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-71140",
@@ -426,7 +502,9 @@
     "incident_date": "2026-09-07",
     "filed_date": "2026-09-19",
     "claim_amount": 163133.66,
-    "filename": "claim_039.pdf"
+    "filename": "claim_039.pdf",
+    "risk_score": 0.8401,
+    "is_high_risk": true
   },
   {
     "policy_number": "CLM-41881",
@@ -437,7 +515,9 @@
     "incident_date": "2026-04-19",
     "filed_date": "2026-05-13",
     "claim_amount": 24753.02,
-    "filename": "claim_040.pdf"
+    "filename": "claim_040.pdf",
+    "risk_score": 0.4339,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-42344",
@@ -448,7 +528,9 @@
     "incident_date": "2025-05-19",
     "filed_date": "2025-06-15",
     "claim_amount": 21959.85,
-    "filename": "claim_041.pdf"
+    "filename": "claim_041.pdf",
+    "risk_score": 0.0955,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-11382",
@@ -459,7 +541,9 @@
     "incident_date": "2025-12-08",
     "filed_date": "2026-01-09",
     "claim_amount": 15763.21,
-    "filename": "claim_042.pdf"
+    "filename": "claim_042.pdf",
+    "risk_score": 0.4872,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-61247",
@@ -470,7 +554,9 @@
     "incident_date": "2024-02-16",
     "filed_date": "2024-02-26",
     "claim_amount": 113631.88,
-    "filename": "claim_043.pdf"
+    "filename": "claim_043.pdf",
+    "risk_score": 0.4669,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-95112",
@@ -481,7 +567,9 @@
     "incident_date": "2026-11-24",
     "filed_date": "2027-01-02",
     "claim_amount": 53898.42,
-    "filename": "claim_044.pdf"
+    "filename": "claim_044.pdf",
+    "risk_score": 0.2561,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-25509",
@@ -492,7 +580,9 @@
     "incident_date": "2025-10-09",
     "filed_date": "2025-11-27",
     "claim_amount": 213751.22,
-    "filename": "claim_045.pdf"
+    "filename": "claim_045.pdf",
+    "risk_score": 0.7676,
+    "is_high_risk": true
   },
   {
     "policy_number": "INS-60022",
@@ -503,7 +593,9 @@
     "incident_date": "2026-09-12",
     "filed_date": "2026-09-16",
     "claim_amount": 2426.91,
-    "filename": "claim_046.pdf"
+    "filename": "claim_046.pdf",
+    "risk_score": 0.2952,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-25677",
@@ -514,7 +606,9 @@
     "incident_date": "2024-04-25",
     "filed_date": "2024-05-05",
     "claim_amount": 36321.44,
-    "filename": "claim_047.pdf"
+    "filename": "claim_047.pdf",
+    "risk_score": 0.3448,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-21980",
@@ -525,7 +619,9 @@
     "incident_date": "2026-07-26",
     "filed_date": "2026-09-01",
     "claim_amount": 121890.09,
-    "filename": "claim_048.pdf"
+    "filename": "claim_048.pdf",
+    "risk_score": 0.2086,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-25906",
@@ -536,7 +632,9 @@
     "incident_date": "2026-12-06",
     "filed_date": "2027-01-22",
     "claim_amount": 115989.08,
-    "filename": "claim_049.pdf"
+    "filename": "claim_049.pdf",
+    "risk_score": 0.1992,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-27958",
@@ -547,7 +645,9 @@
     "incident_date": "2024-09-22",
     "filed_date": "2024-10-02",
     "claim_amount": 224145.15,
-    "filename": "claim_050.pdf"
+    "filename": "claim_050.pdf",
+    "risk_score": 0.689,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-41085",
@@ -558,7 +658,9 @@
     "incident_date": "2025-08-15",
     "filed_date": "2025-09-26",
     "claim_amount": 167778.07,
-    "filename": "claim_051.pdf"
+    "filename": "claim_051.pdf",
+    "risk_score": 0.5912,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-80171",
@@ -569,7 +671,9 @@
     "incident_date": "2025-04-08",
     "filed_date": "2025-04-13",
     "claim_amount": 246502.83,
-    "filename": "claim_052.pdf"
+    "filename": "claim_052.pdf",
+    "risk_score": 0.6218,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-37443",
@@ -580,7 +684,9 @@
     "incident_date": "2026-07-01",
     "filed_date": "2026-07-09",
     "claim_amount": 155736.5,
-    "filename": "claim_053.pdf"
+    "filename": "claim_053.pdf",
+    "risk_score": 0.7265,
+    "is_high_risk": true
   },
   {
     "policy_number": "INS-96352",
@@ -591,7 +697,9 @@
     "incident_date": "2026-12-12",
     "filed_date": "2027-01-26",
     "claim_amount": 85527.72,
-    "filename": "claim_054.pdf"
+    "filename": "claim_054.pdf",
+    "risk_score": 0.4115,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-28645",
@@ -602,7 +710,9 @@
     "incident_date": "2024-05-09",
     "filed_date": "2024-06-07",
     "claim_amount": 166236.4,
-    "filename": "claim_055.pdf"
+    "filename": "claim_055.pdf",
+    "risk_score": 0.4232,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-62514",
@@ -613,7 +723,9 @@
     "incident_date": "2026-01-07",
     "filed_date": "2026-02-27",
     "claim_amount": 184859.64,
-    "filename": "claim_056.pdf"
+    "filename": "claim_056.pdf",
+    "risk_score": 0.6246,
+    "is_high_risk": true
   },
   {
     "policy_number": "CLM-30028",
@@ -624,7 +736,9 @@
     "incident_date": "2025-09-16",
     "filed_date": "2025-09-28",
     "claim_amount": 199770.91,
-    "filename": "claim_057.pdf"
+    "filename": "claim_057.pdf",
+    "risk_score": 0.4521,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-10416",
@@ -635,7 +749,9 @@
     "incident_date": "2026-02-18",
     "filed_date": "2026-03-24",
     "claim_amount": 223405.24,
-    "filename": "claim_058.pdf"
+    "filename": "claim_058.pdf",
+    "risk_score": 0.5549,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-13904",
@@ -646,7 +762,9 @@
     "incident_date": "2024-07-14",
     "filed_date": "2024-08-23",
     "claim_amount": 175024.55,
-    "filename": "claim_059.pdf"
+    "filename": "claim_059.pdf",
+    "risk_score": 0.6524,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-19234",
@@ -657,7 +775,9 @@
     "incident_date": "2026-06-27",
     "filed_date": "2026-08-07",
     "claim_amount": 44275.15,
-    "filename": "claim_060.pdf"
+    "filename": "claim_060.pdf",
+    "risk_score": 0.1919,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-83071",
@@ -668,7 +788,9 @@
     "incident_date": "2026-01-17",
     "filed_date": "2026-02-11",
     "claim_amount": 7745.33,
-    "filename": "claim_061.pdf"
+    "filename": "claim_061.pdf",
+    "risk_score": 0.2384,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-34958",
@@ -679,7 +801,9 @@
     "incident_date": "2026-06-26",
     "filed_date": "2026-07-12",
     "claim_amount": 120498.96,
-    "filename": "claim_062.pdf"
+    "filename": "claim_062.pdf",
+    "risk_score": 0.7398,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-27297",
@@ -690,7 +814,9 @@
     "incident_date": "2024-10-26",
     "filed_date": "2024-11-15",
     "claim_amount": 109722.47,
-    "filename": "claim_063.pdf"
+    "filename": "claim_063.pdf",
+    "risk_score": 0.3677,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-12359",
@@ -701,7 +827,9 @@
     "incident_date": "2026-10-17",
     "filed_date": "2026-12-07",
     "claim_amount": 138382.93,
-    "filename": "claim_064.pdf"
+    "filename": "claim_064.pdf",
+    "risk_score": 0.7013,
+    "is_high_risk": true
   },
   {
     "policy_number": "INS-20700",
@@ -712,7 +840,9 @@
     "incident_date": "2025-03-08",
     "filed_date": "2025-03-18",
     "claim_amount": 116444.73,
-    "filename": "claim_065.pdf"
+    "filename": "claim_065.pdf",
+    "risk_score": 0.5755,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-14884",
@@ -723,7 +853,9 @@
     "incident_date": "2025-05-23",
     "filed_date": "2025-07-07",
     "claim_amount": 204192.98,
-    "filename": "claim_066.pdf"
+    "filename": "claim_066.pdf",
+    "risk_score": 0.7677,
+    "is_high_risk": true
   },
   {
     "policy_number": "INS-85221",
@@ -734,7 +866,9 @@
     "incident_date": "2025-09-12",
     "filed_date": "2025-10-16",
     "claim_amount": 56175.74,
-    "filename": "claim_067.pdf"
+    "filename": "claim_067.pdf",
+    "risk_score": 0.1125,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-79233",
@@ -745,7 +879,9 @@
     "incident_date": "2026-04-26",
     "filed_date": "2026-06-17",
     "claim_amount": 187681.74,
-    "filename": "claim_068.pdf"
+    "filename": "claim_068.pdf",
+    "risk_score": 0.3262,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-72245",
@@ -756,7 +892,9 @@
     "incident_date": "2026-04-09",
     "filed_date": "2026-04-24",
     "claim_amount": 122861.29,
-    "filename": "claim_069.pdf"
+    "filename": "claim_069.pdf",
+    "risk_score": 0.2863,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-67169",
@@ -767,7 +905,9 @@
     "incident_date": "2025-05-14",
     "filed_date": "2025-07-13",
     "claim_amount": 59793.96,
-    "filename": "claim_070.pdf"
+    "filename": "claim_070.pdf",
+    "risk_score": 0.4265,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-13805",
@@ -778,7 +918,9 @@
     "incident_date": "2026-06-12",
     "filed_date": "2026-07-09",
     "claim_amount": 102620.09,
-    "filename": "claim_071.pdf"
+    "filename": "claim_071.pdf",
+    "risk_score": 0.405,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-47715",
@@ -789,7 +931,9 @@
     "incident_date": "2026-05-20",
     "filed_date": "2026-06-24",
     "claim_amount": 21083.8,
-    "filename": "claim_072.pdf"
+    "filename": "claim_072.pdf",
+    "risk_score": 0.5078,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-65501",
@@ -800,7 +944,9 @@
     "incident_date": "2026-08-04",
     "filed_date": "2026-08-18",
     "claim_amount": 29791.22,
-    "filename": "claim_073.pdf"
+    "filename": "claim_073.pdf",
+    "risk_score": 0.2182,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-77642",
@@ -811,7 +957,9 @@
     "incident_date": "2025-06-21",
     "filed_date": "2025-07-17",
     "claim_amount": 44296.1,
-    "filename": "claim_074.pdf"
+    "filename": "claim_074.pdf",
+    "risk_score": 0.2873,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-57846",
@@ -822,7 +970,9 @@
     "incident_date": "2024-06-21",
     "filed_date": "2024-08-20",
     "claim_amount": 13564.8,
-    "filename": "claim_075.pdf"
+    "filename": "claim_075.pdf",
+    "risk_score": 0.3183,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-85875",
@@ -833,7 +983,9 @@
     "incident_date": "2026-04-27",
     "filed_date": "2026-06-18",
     "claim_amount": 14841.42,
-    "filename": "claim_076.pdf"
+    "filename": "claim_076.pdf",
+    "risk_score": 0.3127,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-15126",
@@ -844,7 +996,9 @@
     "incident_date": "2026-03-07",
     "filed_date": "2026-04-16",
     "claim_amount": 30821.95,
-    "filename": "claim_077.pdf"
+    "filename": "claim_077.pdf",
+    "risk_score": 0.1118,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-21919",
@@ -855,7 +1009,9 @@
     "incident_date": "2024-06-07",
     "filed_date": "2024-07-04",
     "claim_amount": 53380.03,
-    "filename": "claim_078.pdf"
+    "filename": "claim_078.pdf",
+    "risk_score": 0.176,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-56151",
@@ -866,7 +1022,9 @@
     "incident_date": "2025-11-09",
     "filed_date": "2025-11-24",
     "claim_amount": 113576.6,
-    "filename": "claim_079.pdf"
+    "filename": "claim_079.pdf",
+    "risk_score": 0.3066,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-92471",
@@ -877,7 +1035,9 @@
     "incident_date": "2026-06-19",
     "filed_date": "2026-07-09",
     "claim_amount": 96895.57,
-    "filename": "claim_080.pdf"
+    "filename": "claim_080.pdf",
+    "risk_score": 0.356,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-37875",
@@ -888,7 +1048,9 @@
     "incident_date": "2026-03-17",
     "filed_date": "2026-03-22",
     "claim_amount": 219721.18,
-    "filename": "claim_081.pdf"
+    "filename": "claim_081.pdf",
+    "risk_score": 0.9335,
+    "is_high_risk": true
   },
   {
     "policy_number": "INS-45667",
@@ -899,7 +1061,9 @@
     "incident_date": "2025-10-18",
     "filed_date": "2025-10-20",
     "claim_amount": 217614.93,
-    "filename": "claim_082.pdf"
+    "filename": "claim_082.pdf",
+    "risk_score": 0.6464,
+    "is_high_risk": true
   },
   {
     "policy_number": "CLM-28820",
@@ -910,7 +1074,9 @@
     "incident_date": "2026-09-22",
     "filed_date": "2026-10-12",
     "claim_amount": 48210.2,
-    "filename": "claim_083.pdf"
+    "filename": "claim_083.pdf",
+    "risk_score": 0.2461,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-76794",
@@ -921,7 +1087,9 @@
     "incident_date": "2025-03-22",
     "filed_date": "2025-05-06",
     "claim_amount": 233798.16,
-    "filename": "claim_084.pdf"
+    "filename": "claim_084.pdf",
+    "risk_score": 0.4272,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-75394",
@@ -932,7 +1100,9 @@
     "incident_date": "2026-05-05",
     "filed_date": "2026-05-31",
     "claim_amount": 203812.1,
-    "filename": "claim_085.pdf"
+    "filename": "claim_085.pdf",
+    "risk_score": 0.715,
+    "is_high_risk": true
   },
   {
     "policy_number": "INS-10534",
@@ -943,7 +1113,9 @@
     "incident_date": "2024-03-07",
     "filed_date": "2024-03-20",
     "claim_amount": 155907.83,
-    "filename": "claim_086.pdf"
+    "filename": "claim_086.pdf",
+    "risk_score": 0.4433,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-27684",
@@ -954,7 +1126,9 @@
     "incident_date": "2024-05-01",
     "filed_date": "2024-06-22",
     "claim_amount": 229153.53,
-    "filename": "claim_087.pdf"
+    "filename": "claim_087.pdf",
+    "risk_score": 0.7433,
+    "is_high_risk": true
   },
   {
     "policy_number": "INS-56782",
@@ -965,7 +1139,9 @@
     "incident_date": "2025-01-18",
     "filed_date": "2025-02-16",
     "claim_amount": 42948.94,
-    "filename": "claim_088.pdf"
+    "filename": "claim_088.pdf",
+    "risk_score": 0.2316,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-57743",
@@ -976,7 +1152,9 @@
     "incident_date": "2025-12-18",
     "filed_date": "2026-01-01",
     "claim_amount": 63827.96,
-    "filename": "claim_089.pdf"
+    "filename": "claim_089.pdf",
+    "risk_score": 0.2657,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-36841",
@@ -987,7 +1165,9 @@
     "incident_date": "2025-03-12",
     "filed_date": "2025-04-17",
     "claim_amount": 33564.08,
-    "filename": "claim_090.pdf"
+    "filename": "claim_090.pdf",
+    "risk_score": 0.393,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-15382",
@@ -998,7 +1178,9 @@
     "incident_date": "2026-05-15",
     "filed_date": "2026-05-31",
     "claim_amount": 14078.7,
-    "filename": "claim_091.pdf"
+    "filename": "claim_091.pdf",
+    "risk_score": 0.272,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-14686",
@@ -1009,7 +1191,9 @@
     "incident_date": "2026-10-18",
     "filed_date": "2026-10-24",
     "claim_amount": 55394.58,
-    "filename": "claim_092.pdf"
+    "filename": "claim_092.pdf",
+    "risk_score": 0.6142,
+    "is_high_risk": true
   },
   {
     "policy_number": "CLM-21170",
@@ -1020,7 +1204,9 @@
     "incident_date": "2025-02-22",
     "filed_date": "2025-03-07",
     "claim_amount": 91822.46,
-    "filename": "claim_093.pdf"
+    "filename": "claim_093.pdf",
+    "risk_score": 0.2757,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-23868",
@@ -1031,7 +1217,9 @@
     "incident_date": "2025-06-05",
     "filed_date": "2025-06-26",
     "claim_amount": 227636.74,
-    "filename": "claim_094.pdf"
+    "filename": "claim_094.pdf",
+    "risk_score": 0.5352,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-48924",
@@ -1042,7 +1230,9 @@
     "incident_date": "2026-12-02",
     "filed_date": "2026-12-07",
     "claim_amount": 243157.54,
-    "filename": "claim_095.pdf"
+    "filename": "claim_095.pdf",
+    "risk_score": 0.8227,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-54200",
@@ -1053,7 +1243,9 @@
     "incident_date": "2026-07-09",
     "filed_date": "2026-08-05",
     "claim_amount": 228499.0,
-    "filename": "claim_096.pdf"
+    "filename": "claim_096.pdf",
+    "risk_score": 0.763,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-50900",
@@ -1064,7 +1256,9 @@
     "incident_date": "2024-01-11",
     "filed_date": "2024-01-16",
     "claim_amount": 210397.64,
-    "filename": "claim_097.pdf"
+    "filename": "claim_097.pdf",
+    "risk_score": 0.4596,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-92507",
@@ -1075,7 +1269,9 @@
     "incident_date": "2026-01-23",
     "filed_date": "2026-02-04",
     "claim_amount": 107538.54,
-    "filename": "claim_098.pdf"
+    "filename": "claim_098.pdf",
+    "risk_score": 0.672,
+    "is_high_risk": true
   },
   {
     "policy_number": "CLM-43686",
@@ -1086,7 +1282,9 @@
     "incident_date": "2026-06-28",
     "filed_date": "2026-08-12",
     "claim_amount": 80102.24,
-    "filename": "claim_099.pdf"
+    "filename": "claim_099.pdf",
+    "risk_score": 0.1373,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-17737",
@@ -1097,7 +1295,9 @@
     "incident_date": "2025-12-14",
     "filed_date": "2026-01-06",
     "claim_amount": 226860.8,
-    "filename": "claim_100.pdf"
+    "filename": "claim_100.pdf",
+    "risk_score": 0.7918,
+    "is_high_risk": true
   },
   {
     "policy_number": "INS-20122",
@@ -1108,7 +1308,9 @@
     "incident_date": "2025-04-22",
     "filed_date": "2025-05-22",
     "claim_amount": 191619.41,
-    "filename": "claim_101.pdf"
+    "filename": "claim_101.pdf",
+    "risk_score": 0.4135,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-78473",
@@ -1119,7 +1321,9 @@
     "incident_date": "2024-12-04",
     "filed_date": "2025-01-17",
     "claim_amount": 104817.99,
-    "filename": "claim_102.pdf"
+    "filename": "claim_102.pdf",
+    "risk_score": 0.1496,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-69881",
@@ -1130,7 +1334,9 @@
     "incident_date": "2024-06-14",
     "filed_date": "2024-07-31",
     "claim_amount": 110822.38,
-    "filename": "claim_103.pdf"
+    "filename": "claim_103.pdf",
+    "risk_score": 0.5635,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-38986",
@@ -1141,7 +1347,9 @@
     "incident_date": "2024-03-20",
     "filed_date": "2024-03-23",
     "claim_amount": 85834.65,
-    "filename": "claim_104.pdf"
+    "filename": "claim_104.pdf",
+    "risk_score": 0.6582,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-42729",
@@ -1152,7 +1360,9 @@
     "incident_date": "2026-09-02",
     "filed_date": "2026-10-07",
     "claim_amount": 31389.13,
-    "filename": "claim_105.pdf"
+    "filename": "claim_105.pdf",
+    "risk_score": 0.4263,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-94269",
@@ -1163,7 +1373,9 @@
     "incident_date": "2025-05-11",
     "filed_date": "2025-06-10",
     "claim_amount": 42730.4,
-    "filename": "claim_106.pdf"
+    "filename": "claim_106.pdf",
+    "risk_score": 0.5186,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-86321",
@@ -1174,7 +1386,9 @@
     "incident_date": "2024-07-21",
     "filed_date": "2024-09-11",
     "claim_amount": 54880.54,
-    "filename": "claim_107.pdf"
+    "filename": "claim_107.pdf",
+    "risk_score": 0.0672,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-34534",
@@ -1185,7 +1399,9 @@
     "incident_date": "2026-09-02",
     "filed_date": "2026-09-15",
     "claim_amount": 91271.3,
-    "filename": "claim_108.pdf"
+    "filename": "claim_108.pdf",
+    "risk_score": 0.3336,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-89940",
@@ -1196,7 +1412,9 @@
     "incident_date": "2025-05-28",
     "filed_date": "2025-05-29",
     "claim_amount": 52911.07,
-    "filename": "claim_109.pdf"
+    "filename": "claim_109.pdf",
+    "risk_score": 0.5782,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-62186",
@@ -1207,7 +1425,9 @@
     "incident_date": "2026-02-12",
     "filed_date": "2026-03-28",
     "claim_amount": 227953.07,
-    "filename": "claim_110.pdf"
+    "filename": "claim_110.pdf",
+    "risk_score": 0.8502,
+    "is_high_risk": true
   },
   {
     "policy_number": "CLM-86665",
@@ -1218,7 +1438,9 @@
     "incident_date": "2026-01-27",
     "filed_date": "2026-02-07",
     "claim_amount": 56176.39,
-    "filename": "claim_111.pdf"
+    "filename": "claim_111.pdf",
+    "risk_score": 0.5165,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-28207",
@@ -1229,7 +1451,9 @@
     "incident_date": "2024-04-04",
     "filed_date": "2024-04-07",
     "claim_amount": 69558.93,
-    "filename": "claim_112.pdf"
+    "filename": "claim_112.pdf",
+    "risk_score": 0.6624,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-73491",
@@ -1240,7 +1464,9 @@
     "incident_date": "2024-08-11",
     "filed_date": "2024-09-21",
     "claim_amount": 98807.72,
-    "filename": "claim_113.pdf"
+    "filename": "claim_113.pdf",
+    "risk_score": 0.1886,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-90985",
@@ -1251,7 +1477,9 @@
     "incident_date": "2024-06-10",
     "filed_date": "2024-07-24",
     "claim_amount": 4769.79,
-    "filename": "claim_114.pdf"
+    "filename": "claim_114.pdf",
+    "risk_score": 0.0654,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-62736",
@@ -1262,7 +1490,9 @@
     "incident_date": "2026-01-03",
     "filed_date": "2026-02-25",
     "claim_amount": 109873.49,
-    "filename": "claim_115.pdf"
+    "filename": "claim_115.pdf",
+    "risk_score": 0.1986,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-53367",
@@ -1273,7 +1503,9 @@
     "incident_date": "2026-04-09",
     "filed_date": "2026-04-30",
     "claim_amount": 219708.78,
-    "filename": "claim_116.pdf"
+    "filename": "claim_116.pdf",
+    "risk_score": 0.734,
+    "is_high_risk": true
   },
   {
     "policy_number": "CLM-42361",
@@ -1284,7 +1516,9 @@
     "incident_date": "2025-04-12",
     "filed_date": "2025-04-29",
     "claim_amount": 202878.72,
-    "filename": "claim_117.pdf"
+    "filename": "claim_117.pdf",
+    "risk_score": 0.7405,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-26083",
@@ -1295,7 +1529,9 @@
     "incident_date": "2026-09-06",
     "filed_date": "2026-10-03",
     "claim_amount": 167493.56,
-    "filename": "claim_118.pdf"
+    "filename": "claim_118.pdf",
+    "risk_score": 0.7766,
+    "is_high_risk": true
   },
   {
     "policy_number": "CLM-75120",
@@ -1306,7 +1542,9 @@
     "incident_date": "2026-08-21",
     "filed_date": "2026-09-06",
     "claim_amount": 97878.37,
-    "filename": "claim_119.pdf"
+    "filename": "claim_119.pdf",
+    "risk_score": 0.4101,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-47296",
@@ -1317,7 +1555,9 @@
     "incident_date": "2026-10-26",
     "filed_date": "2026-12-02",
     "claim_amount": 28649.2,
-    "filename": "claim_120.pdf"
+    "filename": "claim_120.pdf",
+    "risk_score": 0.5621,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-72004",
@@ -1328,7 +1568,9 @@
     "incident_date": "2024-02-26",
     "filed_date": "2024-03-11",
     "claim_amount": 129822.44,
-    "filename": "claim_121.pdf"
+    "filename": "claim_121.pdf",
+    "risk_score": 0.676,
+    "is_high_risk": true
   },
   {
     "policy_number": "CLM-18743",
@@ -1339,7 +1581,9 @@
     "incident_date": "2026-10-17",
     "filed_date": "2026-11-28",
     "claim_amount": 131064.23,
-    "filename": "claim_122.pdf"
+    "filename": "claim_122.pdf",
+    "risk_score": 0.6611,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-70338",
@@ -1350,7 +1594,9 @@
     "incident_date": "2026-12-03",
     "filed_date": "2027-01-08",
     "claim_amount": 208718.02,
-    "filename": "claim_123.pdf"
+    "filename": "claim_123.pdf",
+    "risk_score": 0.7212,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-73318",
@@ -1361,7 +1607,9 @@
     "incident_date": "2026-05-22",
     "filed_date": "2026-06-19",
     "claim_amount": 47685.44,
-    "filename": "claim_124.pdf"
+    "filename": "claim_124.pdf",
+    "risk_score": 0.5721,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-59610",
@@ -1372,7 +1620,9 @@
     "incident_date": "2025-12-11",
     "filed_date": "2026-01-22",
     "claim_amount": 181198.95,
-    "filename": "claim_125.pdf"
+    "filename": "claim_125.pdf",
+    "risk_score": 0.7101,
+    "is_high_risk": true
   },
   {
     "policy_number": "CLM-95771",
@@ -1383,7 +1633,9 @@
     "incident_date": "2024-03-14",
     "filed_date": "2024-03-24",
     "claim_amount": 245556.09,
-    "filename": "claim_126.pdf"
+    "filename": "claim_126.pdf",
+    "risk_score": 0.65,
+    "is_high_risk": true
   },
   {
     "policy_number": "INS-89335",
@@ -1394,7 +1646,9 @@
     "incident_date": "2024-04-17",
     "filed_date": "2024-06-16",
     "claim_amount": 168922.4,
-    "filename": "claim_127.pdf"
+    "filename": "claim_127.pdf",
+    "risk_score": 0.546,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-65087",
@@ -1405,7 +1659,9 @@
     "incident_date": "2026-09-15",
     "filed_date": "2026-11-07",
     "claim_amount": 99747.47,
-    "filename": "claim_128.pdf"
+    "filename": "claim_128.pdf",
+    "risk_score": 0.5379,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-32903",
@@ -1416,7 +1672,9 @@
     "incident_date": "2024-05-09",
     "filed_date": "2024-06-18",
     "claim_amount": 19442.92,
-    "filename": "claim_129.pdf"
+    "filename": "claim_129.pdf",
+    "risk_score": 0.4936,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-66018",
@@ -1427,7 +1685,9 @@
     "incident_date": "2026-12-16",
     "filed_date": "2027-01-13",
     "claim_amount": 107492.09,
-    "filename": "claim_130.pdf"
+    "filename": "claim_130.pdf",
+    "risk_score": 0.3256,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-17894",
@@ -1438,7 +1698,9 @@
     "incident_date": "2026-01-03",
     "filed_date": "2026-02-23",
     "claim_amount": 14487.56,
-    "filename": "claim_131.pdf"
+    "filename": "claim_131.pdf",
+    "risk_score": 0.1655,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-32266",
@@ -1449,7 +1711,9 @@
     "incident_date": "2025-08-05",
     "filed_date": "2025-09-03",
     "claim_amount": 218613.29,
-    "filename": "claim_132.pdf"
+    "filename": "claim_132.pdf",
+    "risk_score": 0.5088,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-28454",
@@ -1460,7 +1724,9 @@
     "incident_date": "2026-09-01",
     "filed_date": "2026-09-02",
     "claim_amount": 81467.9,
-    "filename": "claim_133.pdf"
+    "filename": "claim_133.pdf",
+    "risk_score": 0.7412,
+    "is_high_risk": true
   },
   {
     "policy_number": "INS-49984",
@@ -1471,7 +1737,9 @@
     "incident_date": "2026-10-12",
     "filed_date": "2026-11-03",
     "claim_amount": 174966.11,
-    "filename": "claim_134.pdf"
+    "filename": "claim_134.pdf",
+    "risk_score": 0.7579,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-52172",
@@ -1482,7 +1750,9 @@
     "incident_date": "2024-03-13",
     "filed_date": "2024-04-07",
     "claim_amount": 82988.49,
-    "filename": "claim_135.pdf"
+    "filename": "claim_135.pdf",
+    "risk_score": 0.2892,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-11243",
@@ -1493,7 +1763,9 @@
     "incident_date": "2026-02-21",
     "filed_date": "2026-03-10",
     "claim_amount": 245430.16,
-    "filename": "claim_136.pdf"
+    "filename": "claim_136.pdf",
+    "risk_score": 0.9008,
+    "is_high_risk": true
   },
   {
     "policy_number": "INS-22080",
@@ -1504,7 +1776,9 @@
     "incident_date": "2024-08-09",
     "filed_date": "2024-09-11",
     "claim_amount": 7894.62,
-    "filename": "claim_137.pdf"
+    "filename": "claim_137.pdf",
+    "risk_score": 0.4322,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-74768",
@@ -1515,7 +1789,9 @@
     "incident_date": "2025-10-22",
     "filed_date": "2025-10-28",
     "claim_amount": 139453.34,
-    "filename": "claim_138.pdf"
+    "filename": "claim_138.pdf",
+    "risk_score": 0.8332,
+    "is_high_risk": true
   },
   {
     "policy_number": "INS-17129",
@@ -1526,7 +1802,9 @@
     "incident_date": "2024-05-21",
     "filed_date": "2024-07-01",
     "claim_amount": 196206.7,
-    "filename": "claim_139.pdf"
+    "filename": "claim_139.pdf",
+    "risk_score": 0.7011,
+    "is_high_risk": true
   },
   {
     "policy_number": "INS-53324",
@@ -1537,7 +1815,9 @@
     "incident_date": "2025-02-25",
     "filed_date": "2025-02-27",
     "claim_amount": 81224.07,
-    "filename": "claim_140.pdf"
+    "filename": "claim_140.pdf",
+    "risk_score": 0.7334,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-46749",
@@ -1548,7 +1828,9 @@
     "incident_date": "2026-05-11",
     "filed_date": "2026-07-05",
     "claim_amount": 243423.64,
-    "filename": "claim_141.pdf"
+    "filename": "claim_141.pdf",
+    "risk_score": 0.8066,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-95104",
@@ -1559,7 +1841,9 @@
     "incident_date": "2024-07-22",
     "filed_date": "2024-08-19",
     "claim_amount": 72853.68,
-    "filename": "claim_142.pdf"
+    "filename": "claim_142.pdf",
+    "risk_score": 0.4606,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-49747",
@@ -1570,7 +1854,9 @@
     "incident_date": "2025-12-25",
     "filed_date": "2026-02-21",
     "claim_amount": 214480.85,
-    "filename": "claim_143.pdf"
+    "filename": "claim_143.pdf",
+    "risk_score": 0.6155,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-87366",
@@ -1581,7 +1867,9 @@
     "incident_date": "2025-09-21",
     "filed_date": "2025-10-21",
     "claim_amount": 200032.13,
-    "filename": "claim_144.pdf"
+    "filename": "claim_144.pdf",
+    "risk_score": 0.4608,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-70260",
@@ -1592,7 +1880,9 @@
     "incident_date": "2026-05-03",
     "filed_date": "2026-05-30",
     "claim_amount": 8583.13,
-    "filename": "claim_145.pdf"
+    "filename": "claim_145.pdf",
+    "risk_score": 0.2302,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-87786",
@@ -1603,7 +1893,9 @@
     "incident_date": "2024-04-09",
     "filed_date": "2024-06-05",
     "claim_amount": 5363.87,
-    "filename": "claim_146.pdf"
+    "filename": "claim_146.pdf",
+    "risk_score": 0.0889,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-98050",
@@ -1614,7 +1906,9 @@
     "incident_date": "2024-09-28",
     "filed_date": "2024-10-10",
     "claim_amount": 6592.89,
-    "filename": "claim_147.pdf"
+    "filename": "claim_147.pdf",
+    "risk_score": 0.5697,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-26587",
@@ -1625,7 +1919,9 @@
     "incident_date": "2024-01-13",
     "filed_date": "2024-02-13",
     "claim_amount": 232986.77,
-    "filename": "claim_148.pdf"
+    "filename": "claim_148.pdf",
+    "risk_score": 0.7559,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-41840",
@@ -1636,7 +1932,9 @@
     "incident_date": "2026-06-03",
     "filed_date": "2026-07-06",
     "claim_amount": 51824.17,
-    "filename": "claim_149.pdf"
+    "filename": "claim_149.pdf",
+    "risk_score": 0.127,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-95897",
@@ -1647,7 +1945,9 @@
     "incident_date": "2025-05-15",
     "filed_date": "2025-06-13",
     "claim_amount": 127423.6,
-    "filename": "claim_150.pdf"
+    "filename": "claim_150.pdf",
+    "risk_score": 0.6283,
+    "is_high_risk": true
   },
   {
     "policy_number": "INS-37795",
@@ -1658,7 +1958,9 @@
     "incident_date": "2024-04-16",
     "filed_date": "2024-05-21",
     "claim_amount": 106290.62,
-    "filename": "claim_151.pdf"
+    "filename": "claim_151.pdf",
+    "risk_score": 0.2542,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-44560",
@@ -1669,7 +1971,9 @@
     "incident_date": "2024-12-28",
     "filed_date": "2025-02-24",
     "claim_amount": 145355.71,
-    "filename": "claim_152.pdf"
+    "filename": "claim_152.pdf",
+    "risk_score": 0.6064,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-18852",
@@ -1680,7 +1984,9 @@
     "incident_date": "2024-08-01",
     "filed_date": "2024-08-02",
     "claim_amount": 170565.73,
-    "filename": "claim_153.pdf"
+    "filename": "claim_153.pdf",
+    "risk_score": 0.573,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-92226",
@@ -1691,7 +1997,9 @@
     "incident_date": "2024-01-17",
     "filed_date": "2024-01-18",
     "claim_amount": 65419.98,
-    "filename": "claim_154.pdf"
+    "filename": "claim_154.pdf",
+    "risk_score": 0.3824,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-50550",
@@ -1702,7 +2010,9 @@
     "incident_date": "2026-09-11",
     "filed_date": "2026-09-28",
     "claim_amount": 106803.82,
-    "filename": "claim_155.pdf"
+    "filename": "claim_155.pdf",
+    "risk_score": 0.6774,
+    "is_high_risk": true
   },
   {
     "policy_number": "CLM-24209",
@@ -1713,7 +2023,9 @@
     "incident_date": "2026-03-25",
     "filed_date": "2026-04-05",
     "claim_amount": 137525.02,
-    "filename": "claim_156.pdf"
+    "filename": "claim_156.pdf",
+    "risk_score": 0.8004,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-61186",
@@ -1724,7 +2036,9 @@
     "incident_date": "2025-02-19",
     "filed_date": "2025-02-27",
     "claim_amount": 34567.65,
-    "filename": "claim_157.pdf"
+    "filename": "claim_157.pdf",
+    "risk_score": 0.2551,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-24900",
@@ -1735,7 +2049,9 @@
     "incident_date": "2026-03-15",
     "filed_date": "2026-05-08",
     "claim_amount": 132945.72,
-    "filename": "claim_158.pdf"
+    "filename": "claim_158.pdf",
+    "risk_score": 0.4932,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-95357",
@@ -1746,7 +2062,9 @@
     "incident_date": "2024-05-03",
     "filed_date": "2024-06-29",
     "claim_amount": 215210.88,
-    "filename": "claim_159.pdf"
+    "filename": "claim_159.pdf",
+    "risk_score": 0.6163,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-46722",
@@ -1757,7 +2075,9 @@
     "incident_date": "2025-11-25",
     "filed_date": "2026-01-12",
     "claim_amount": 201743.11,
-    "filename": "claim_160.pdf"
+    "filename": "claim_160.pdf",
+    "risk_score": 0.4735,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-91131",
@@ -1768,7 +2088,9 @@
     "incident_date": "2024-10-21",
     "filed_date": "2024-10-27",
     "claim_amount": 176035.61,
-    "filename": "claim_161.pdf"
+    "filename": "claim_161.pdf",
+    "risk_score": 0.7508,
+    "is_high_risk": true
   },
   {
     "policy_number": "POL-83424",
@@ -1779,7 +2101,9 @@
     "incident_date": "2025-03-04",
     "filed_date": "2025-04-16",
     "claim_amount": 35369.19,
-    "filename": "claim_162.pdf"
+    "filename": "claim_162.pdf",
+    "risk_score": 0.3538,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-49247",
@@ -1790,7 +2114,9 @@
     "incident_date": "2026-01-02",
     "filed_date": "2026-01-12",
     "claim_amount": 33210.08,
-    "filename": "claim_163.pdf"
+    "filename": "claim_163.pdf",
+    "risk_score": 0.5618,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-10313",
@@ -1801,7 +2127,9 @@
     "incident_date": "2025-06-22",
     "filed_date": "2025-08-18",
     "claim_amount": 1650.08,
-    "filename": "claim_164.pdf"
+    "filename": "claim_164.pdf",
+    "risk_score": 0.1551,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-28530",
@@ -1812,7 +2140,9 @@
     "incident_date": "2024-04-03",
     "filed_date": "2024-05-03",
     "claim_amount": 36981.28,
-    "filename": "claim_165.pdf"
+    "filename": "claim_165.pdf",
+    "risk_score": 0.5337,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-36126",
@@ -1823,7 +2153,9 @@
     "incident_date": "2024-06-01",
     "filed_date": "2024-07-20",
     "claim_amount": 155061.77,
-    "filename": "claim_166.pdf"
+    "filename": "claim_166.pdf",
+    "risk_score": 0.3636,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-79267",
@@ -1834,7 +2166,9 @@
     "incident_date": "2025-06-10",
     "filed_date": "2025-07-29",
     "claim_amount": 141794.37,
-    "filename": "claim_167.pdf"
+    "filename": "claim_167.pdf",
+    "risk_score": 0.3791,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-88954",
@@ -1845,7 +2179,9 @@
     "incident_date": "2025-04-28",
     "filed_date": "2025-05-29",
     "claim_amount": 16400.84,
-    "filename": "claim_168.pdf"
+    "filename": "claim_168.pdf",
+    "risk_score": 0.233,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-26771",
@@ -1856,7 +2192,9 @@
     "incident_date": "2026-10-24",
     "filed_date": "2026-12-15",
     "claim_amount": 60235.62,
-    "filename": "claim_169.pdf"
+    "filename": "claim_169.pdf",
+    "risk_score": 0.1291,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-82224",
@@ -1867,7 +2205,9 @@
     "incident_date": "2024-07-09",
     "filed_date": "2024-08-13",
     "claim_amount": 113029.39,
-    "filename": "claim_170.pdf"
+    "filename": "claim_170.pdf",
+    "risk_score": 0.3802,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-22488",
@@ -1878,7 +2218,9 @@
     "incident_date": "2026-03-19",
     "filed_date": "2026-05-16",
     "claim_amount": 210629.61,
-    "filename": "claim_171.pdf"
+    "filename": "claim_171.pdf",
+    "risk_score": 0.6888,
+    "is_high_risk": true
   },
   {
     "policy_number": "CLM-70482",
@@ -1889,7 +2231,9 @@
     "incident_date": "2024-03-06",
     "filed_date": "2024-04-04",
     "claim_amount": 219474.86,
-    "filename": "claim_172.pdf"
+    "filename": "claim_172.pdf",
+    "risk_score": 0.4144,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-46041",
@@ -1900,7 +2244,9 @@
     "incident_date": "2025-07-19",
     "filed_date": "2025-08-20",
     "claim_amount": 34480.66,
-    "filename": "claim_173.pdf"
+    "filename": "claim_173.pdf",
+    "risk_score": 0.1487,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-46297",
@@ -1911,7 +2257,9 @@
     "incident_date": "2026-11-11",
     "filed_date": "2026-11-29",
     "claim_amount": 73476.2,
-    "filename": "claim_174.pdf"
+    "filename": "claim_174.pdf",
+    "risk_score": 0.5367,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-92264",
@@ -1922,7 +2270,9 @@
     "incident_date": "2025-11-26",
     "filed_date": "2025-12-30",
     "claim_amount": 160817.0,
-    "filename": "claim_175.pdf"
+    "filename": "claim_175.pdf",
+    "risk_score": 0.5741,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-90961",
@@ -1933,7 +2283,9 @@
     "incident_date": "2024-11-06",
     "filed_date": "2024-11-30",
     "claim_amount": 24732.73,
-    "filename": "claim_176.pdf"
+    "filename": "claim_176.pdf",
+    "risk_score": 0.4548,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-70091",
@@ -1944,7 +2296,9 @@
     "incident_date": "2025-09-07",
     "filed_date": "2025-09-20",
     "claim_amount": 183472.97,
-    "filename": "claim_177.pdf"
+    "filename": "claim_177.pdf",
+    "risk_score": 0.8092,
+    "is_high_risk": true
   },
   {
     "policy_number": "CLM-95045",
@@ -1955,7 +2309,9 @@
     "incident_date": "2025-07-11",
     "filed_date": "2025-08-01",
     "claim_amount": 102304.25,
-    "filename": "claim_178.pdf"
+    "filename": "claim_178.pdf",
+    "risk_score": 0.703,
+    "is_high_risk": true
   },
   {
     "policy_number": "INS-45971",
@@ -1966,7 +2322,9 @@
     "incident_date": "2025-08-13",
     "filed_date": "2025-09-16",
     "claim_amount": 231674.12,
-    "filename": "claim_179.pdf"
+    "filename": "claim_179.pdf",
+    "risk_score": 0.5437,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-73838",
@@ -1977,7 +2335,9 @@
     "incident_date": "2024-02-08",
     "filed_date": "2024-03-18",
     "claim_amount": 13903.05,
-    "filename": "claim_180.pdf"
+    "filename": "claim_180.pdf",
+    "risk_score": 0.4569,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-35889",
@@ -1988,7 +2348,9 @@
     "incident_date": "2025-10-22",
     "filed_date": "2025-11-08",
     "claim_amount": 159571.8,
-    "filename": "claim_181.pdf"
+    "filename": "claim_181.pdf",
+    "risk_score": 0.4194,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-97567",
@@ -1999,7 +2361,9 @@
     "incident_date": "2026-03-06",
     "filed_date": "2026-03-22",
     "claim_amount": 131865.28,
-    "filename": "claim_182.pdf"
+    "filename": "claim_182.pdf",
+    "risk_score": 0.3048,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-42302",
@@ -2010,7 +2374,9 @@
     "incident_date": "2025-04-21",
     "filed_date": "2025-05-03",
     "claim_amount": 47364.49,
-    "filename": "claim_183.pdf"
+    "filename": "claim_183.pdf",
+    "risk_score": 0.6515,
+    "is_high_risk": true
   },
   {
     "policy_number": "INS-49114",
@@ -2021,7 +2387,9 @@
     "incident_date": "2025-05-02",
     "filed_date": "2025-05-25",
     "claim_amount": 38293.93,
-    "filename": "claim_184.pdf"
+    "filename": "claim_184.pdf",
+    "risk_score": 0.1621,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-36282",
@@ -2032,7 +2400,9 @@
     "incident_date": "2025-05-20",
     "filed_date": "2025-07-02",
     "claim_amount": 30303.99,
-    "filename": "claim_185.pdf"
+    "filename": "claim_185.pdf",
+    "risk_score": 0.4966,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-39063",
@@ -2043,7 +2413,9 @@
     "incident_date": "2025-09-08",
     "filed_date": "2025-10-05",
     "claim_amount": 41202.29,
-    "filename": "claim_186.pdf"
+    "filename": "claim_186.pdf",
+    "risk_score": 0.1082,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-85637",
@@ -2054,7 +2426,9 @@
     "incident_date": "2024-12-20",
     "filed_date": "2025-01-01",
     "claim_amount": 68505.79,
-    "filename": "claim_187.pdf"
+    "filename": "claim_187.pdf",
+    "risk_score": 0.2008,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-15478",
@@ -2065,7 +2439,9 @@
     "incident_date": "2025-06-16",
     "filed_date": "2025-07-14",
     "claim_amount": 182823.72,
-    "filename": "claim_188.pdf"
+    "filename": "claim_188.pdf",
+    "risk_score": 0.4785,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-69526",
@@ -2076,7 +2452,9 @@
     "incident_date": "2025-10-04",
     "filed_date": "2025-11-29",
     "claim_amount": 16646.22,
-    "filename": "claim_189.pdf"
+    "filename": "claim_189.pdf",
+    "risk_score": 0.4558,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-29794",
@@ -2087,7 +2465,9 @@
     "incident_date": "2026-09-06",
     "filed_date": "2026-09-23",
     "claim_amount": 2941.43,
-    "filename": "claim_190.pdf"
+    "filename": "claim_190.pdf",
+    "risk_score": 0.5332,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-48425",
@@ -2098,7 +2478,9 @@
     "incident_date": "2026-08-20",
     "filed_date": "2026-09-19",
     "claim_amount": 111532.4,
-    "filename": "claim_191.pdf"
+    "filename": "claim_191.pdf",
+    "risk_score": 0.2086,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-59637",
@@ -2109,7 +2491,9 @@
     "incident_date": "2026-10-09",
     "filed_date": "2026-11-14",
     "claim_amount": 240433.52,
-    "filename": "claim_192.pdf"
+    "filename": "claim_192.pdf",
+    "risk_score": 0.4484,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-97763",
@@ -2120,7 +2504,9 @@
     "incident_date": "2024-11-17",
     "filed_date": "2024-11-20",
     "claim_amount": 52671.53,
-    "filename": "claim_193.pdf"
+    "filename": "claim_193.pdf",
+    "risk_score": 0.568,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-97052",
@@ -2131,7 +2517,9 @@
     "incident_date": "2026-04-07",
     "filed_date": "2026-06-04",
     "claim_amount": 226619.9,
-    "filename": "claim_194.pdf"
+    "filename": "claim_194.pdf",
+    "risk_score": 0.4948,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-23217",
@@ -2142,7 +2530,9 @@
     "incident_date": "2025-01-10",
     "filed_date": "2025-02-14",
     "claim_amount": 15276.88,
-    "filename": "claim_195.pdf"
+    "filename": "claim_195.pdf",
+    "risk_score": 0.4679,
+    "is_high_risk": false
   },
   {
     "policy_number": "CLM-42059",
@@ -2153,7 +2543,9 @@
     "incident_date": "2025-02-17",
     "filed_date": "2025-02-18",
     "claim_amount": 58958.61,
-    "filename": "claim_196.pdf"
+    "filename": "claim_196.pdf",
+    "risk_score": 0.6463,
+    "is_high_risk": true
   },
   {
     "policy_number": "INS-80378",
@@ -2164,7 +2556,9 @@
     "incident_date": "2026-02-02",
     "filed_date": "2026-02-14",
     "claim_amount": 247404.42,
-    "filename": "claim_197.pdf"
+    "filename": "claim_197.pdf",
+    "risk_score": 0.5854,
+    "is_high_risk": false
   },
   {
     "policy_number": "INS-57047",
@@ -2175,7 +2569,9 @@
     "incident_date": "2026-11-17",
     "filed_date": "2026-12-19",
     "claim_amount": 1253.13,
-    "filename": "claim_198.pdf"
+    "filename": "claim_198.pdf",
+    "risk_score": 0.4831,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-68892",
@@ -2186,7 +2582,9 @@
     "incident_date": "2024-04-08",
     "filed_date": "2024-04-30",
     "claim_amount": 171563.79,
-    "filename": "claim_199.pdf"
+    "filename": "claim_199.pdf",
+    "risk_score": 0.4101,
+    "is_high_risk": false
   },
   {
     "policy_number": "POL-12106",
@@ -2197,6 +2595,8 @@
     "incident_date": "2026-11-03",
     "filed_date": "2026-12-23",
     "claim_amount": 62668.65,
-    "filename": "claim_200.pdf"
+    "filename": "claim_200.pdf",
+    "risk_score": 0.4319,
+    "is_high_risk": false
   }
 ]
