@@ -1,0 +1,20 @@
+{
+  "filename": "claim_001.pdf",
+  "extracted_fields": {
+    "policy_number": "INS-89828",
+    "claim_type": "Property",
+    "claimant_name": "Priya Singh",
+    "diagnosis": "Lost baggage",
+    "claim_amount": 164843.52,
+    "incident_date": "2026-02-05",
+    "provider_name": "Fortis Healthcare"
+  },
+  "risk_score": 0.8415,
+  "is_high_risk": true,
+  "top_reasons": [
+    {"feature": "is_property", "direction": "increases_risk", "weight": 3.2914},
+    {"feature": "claim_amount", "direction": "increases_risk", "weight": 0.6618},
+    {"feature": "provider_risk", "direction": "decreases_risk", "weight": -0.7846},
+    {"feature": "days_gap", "direction": "decreases_risk", "weight": -0.6275}
+  ]
+}
